@@ -1,0 +1,1001 @@
+Age,Sex,Job,Housing,Saving_accounts,Checking_account,Monthly_Income,Employment_Years,Credit_amount,Duration,Purpose,Existing_Loans,Dependents,Payment_History,Debt_to_Income,Credit_per_Month,Risk
+23,female,2,own,none,none,2654.93,4,6981.88,66,car,0,0,average,0.2191,105.79,bad
+62,female,3,own,little,little,3873.06,37,1074.88,19,repairs,1,1,average,0.0231,56.57,good
+55,female,2,own,moderate,none,3471.01,2,614.37,4,domestic appliances,3,3,good,0.0148,153.59,good
+43,male,2,rent,little,moderate,3170.69,8,1922.3,44,radio/TV,0,2,good,0.0505,43.69,good
+43,male,3,rent,none,moderate,3545.58,6,1583.1,20,radio/TV,1,0,average,0.0372,79.16,good
+67,female,2,own,little,little,3585.24,23,6422.89,39,car,0,0,good,0.1493,164.69,good
+22,male,2,own,little,none,1957.26,2,983.26,56,domestic appliances,1,3,average,0.0419,17.56,bad
+58,female,2,rent,little,little,2579.81,35,250.0,16,furniture/equipment,0,3,average,0.0081,15.62,good
+29,male,1,rent,moderate,moderate,2035.25,11,4739.32,52,car,3,1,good,0.1941,91.14,bad
+23,male,2,own,little,little,2217.5,4,1105.01,24,furniture/equipment,0,1,good,0.0415,46.04,good
+48,male,1,free,moderate,none,1967.19,6,1742.03,26,car,0,1,average,0.0738,67.0,good
+74,female,1,rent,little,little,1996.98,1,1768.15,43,furniture/equipment,2,0,good,0.0738,41.12,good
+60,male,2,free,quite rich,little,3822.15,36,4025.7,47,furniture/equipment,2,0,poor,0.0878,85.65,good
+62,male,2,free,none,little,3151.61,38,6824.72,49,car,1,0,average,0.1805,139.28,bad
+59,male,3,free,none,none,3689.87,10,2259.44,17,education,1,0,good,0.051,132.91,good
+63,male,2,rent,little,rich,2630.04,1,5131.35,43,car,0,2,average,0.1626,119.33,bad
+47,male,1,rent,little,none,2521.63,20,1492.12,22,furniture/equipment,1,0,good,0.0493,67.82,bad
+25,female,3,own,little,none,3218.08,4,1603.34,23,furniture/equipment,0,0,good,0.0415,69.71,good
+66,male,1,own,moderate,none,3284.1,36,3148.48,69,vacation,0,1,poor,0.0799,45.63,bad
+44,female,1,rent,little,little,2238.77,15,747.02,10,furniture/equipment,3,0,average,0.0278,74.7,good
+47,female,2,own,none,little,3770.96,22,1736.0,32,domestic appliances,1,0,average,0.0384,54.25,good
+39,male,2,free,little,little,2748.36,17,1761.45,34,radio/TV,0,1,average,0.0534,51.81,good
+28,male,3,own,moderate,little,3559.99,0,2387.38,20,education,0,0,good,0.0559,119.37,good
+71,female,2,own,quite rich,moderate,2729.12,6,6533.55,58,car,3,1,good,0.1995,112.65,bad
+63,male,2,own,moderate,little,3260.29,31,6566.73,37,business,0,3,good,0.1678,177.48,good
+55,male,1,own,little,rich,2271.31,6,4761.91,53,car,0,0,good,0.1747,89.85,bad
+41,female,2,own,moderate,little,2595.29,4,681.46,30,vacation,0,3,good,0.0219,22.72,good
+65,female,2,own,moderate,none,2418.31,30,2428.32,65,repairs,0,3,good,0.0837,37.36,good
+49,female,1,rent,little,rich,978.0,6,673.76,54,radio/TV,0,2,average,0.0574,12.48,bad
+43,male,2,own,little,moderate,3120.35,3,2157.9,26,furniture/equipment,4,1,good,0.0576,83.0,good
+44,female,2,own,moderate,little,3030.59,0,5453.55,70,furniture/equipment,0,1,average,0.15,77.91,good
+31,female,1,own,little,moderate,2710.57,6,6430.52,63,car,1,1,average,0.1977,102.07,bad
+23,male,2,own,moderate,little,2668.87,3,5926.15,44,business,1,1,poor,0.185,134.69,good
+50,female,2,own,little,little,2747.58,24,578.09,5,business,1,0,good,0.0175,115.62,good
+69,male,1,rent,little,moderate,2678.15,37,3067.45,44,furniture/equipment,1,3,poor,0.0954,69.71,good
+21,male,2,rent,none,moderate,2654.0,2,5315.71,51,car,1,1,average,0.1669,104.23,bad
+67,male,3,own,moderate,little,3722.54,31,1087.57,29,domestic appliances,1,2,good,0.0243,37.5,good
+66,male,2,rent,quite rich,little,3377.0,8,1227.83,13,car,1,0,good,0.0303,94.45,good
+34,male,3,own,none,little,4208.83,5,4318.02,42,furniture/equipment,2,0,good,0.0855,102.81,bad
+54,female,2,own,little,none,3042.4,11,7265.09,59,car,1,1,average,0.199,123.14,bad
+27,female,3,free,none,rich,3296.2,0,3237.85,26,car,2,1,average,0.0819,124.53,good
+61,male,2,own,none,little,3121.76,39,4357.71,35,car,0,0,good,0.1163,124.51,good
+58,female,2,free,rich,little,3366.25,9,647.16,4,radio/TV,1,0,average,0.016,161.79,good
+38,female,1,own,little,little,2151.71,9,2208.79,52,furniture/equipment,1,0,good,0.0855,42.48,good
+21,male,2,own,little,little,2523.79,1,3373.31,63,furniture/equipment,0,1,good,0.1114,53.54,bad
+74,male,2,own,little,little,2793.41,1,8860.18,57,business,2,0,poor,0.2643,155.44,bad
+43,male,2,own,rich,rich,2970.0,23,5175.83,33,business,0,3,poor,0.1452,156.84,good
+69,male,2,free,little,moderate,2876.41,9,1090.08,7,car,0,0,average,0.0316,155.73,good
+57,female,2,own,moderate,moderate,2195.14,4,3477.19,37,car,2,0,good,0.132,93.98,bad
+63,male,2,rent,little,little,3330.48,14,5270.23,68,furniture/equipment,0,0,good,0.1319,77.5,good
+62,male,1,free,none,little,1988.46,5,278.26,9,furniture/equipment,0,1,good,0.0117,30.92,good
+29,male,2,own,moderate,none,3280.58,11,1710.47,18,furniture/equipment,0,1,good,0.0434,95.03,good
+39,male,2,own,none,little,2629.6,4,7014.83,61,car,2,1,good,0.2223,115.0,bad
+45,female,2,own,moderate,none,2752.33,8,4575.93,43,education,1,3,poor,0.1385,106.42,bad
+46,male,2,own,little,moderate,2350.69,7,965.61,15,car,1,0,average,0.0342,64.37,bad
+20,male,2,rent,moderate,moderate,2865.91,0,856.32,5,furniture/equipment,2,1,good,0.0249,171.26,good
+49,male,3,own,moderate,little,2993.46,0,3768.28,32,car,1,0,good,0.1049,117.76,good
+26,male,2,free,moderate,little,2529.75,4,2354.23,45,furniture/equipment,3,0,good,0.0776,52.32,bad
+61,male,2,rent,none,moderate,2825.37,9,2445.67,61,radio/TV,2,1,good,0.0721,40.09,good
+57,male,3,own,moderate,none,3417.43,3,11815.02,64,business,0,0,average,0.2881,184.61,bad
+71,male,3,rent,rich,rich,2977.87,11,4472.06,35,car,3,1,good,0.1251,127.77,good
+61,male,2,own,little,little,2794.22,11,2049.39,33,furniture/equipment,1,1,average,0.0611,62.1,good
+39,female,3,free,little,none,3803.33,9,10895.65,68,car,0,1,good,0.2387,160.23,bad
+74,female,3,own,quite rich,none,4167.58,40,12527.43,57,business,0,1,good,0.2505,219.78,good
+41,female,3,free,none,rich,3396.34,7,2267.12,18,car,1,1,poor,0.0556,125.95,good
+36,female,2,rent,moderate,little,2981.84,13,5926.47,51,car,0,0,good,0.1656,116.21,bad
+70,female,1,free,moderate,moderate,2630.91,31,7484.6,53,business,1,0,good,0.2371,141.22,good
+39,male,0,own,none,none,864.32,1,672.85,20,car,0,0,average,0.0649,33.64,good
+22,male,2,rent,little,none,2637.28,2,7095.71,71,car,1,1,good,0.2242,99.94,bad
+45,male,2,own,little,moderate,3247.93,12,3067.13,24,education,0,4,good,0.0787,127.8,good
+64,male,2,rent,little,none,2732.09,20,3728.44,41,education,2,0,good,0.1137,90.94,good
+28,female,2,own,quite rich,none,2493.93,1,3953.77,38,education,0,1,good,0.1321,104.05,good
+44,male,2,own,none,little,2416.43,12,1236.02,51,radio/TV,0,2,good,0.0426,24.24,good
+25,female,3,own,little,moderate,3629.48,0,5517.12,66,furniture/equipment,0,2,good,0.1267,83.59,good
+57,female,1,own,quite rich,little,2792.67,37,2750.06,31,education,1,1,average,0.0821,88.71,good
+45,male,1,own,little,none,2002.43,16,2062.81,30,car,1,1,poor,0.0858,68.76,good
+37,female,3,rent,quite rich,rich,3332.29,0,9427.27,55,business,1,1,good,0.2358,171.4,bad
+31,male,3,own,none,moderate,3053.74,7,9312.14,69,car,0,2,good,0.2541,134.96,bad
+50,female,3,rent,little,moderate,3688.28,30,2897.32,66,domestic appliances,2,0,good,0.0655,43.9,good
+56,male,3,own,none,moderate,3488.95,28,4160.8,55,furniture/equipment,1,3,good,0.0994,75.65,good
+72,male,3,rent,moderate,moderate,3201.63,11,3153.19,52,furniture/equipment,0,0,good,0.0821,60.64,good
+43,male,2,rent,moderate,little,3650.07,23,4166.05,57,furniture/equipment,2,2,average,0.0951,73.09,good
+27,male,2,own,quite rich,little,2368.41,1,6361.7,68,car,1,0,good,0.2238,93.55,good
+66,male,2,rent,rich,moderate,3013.18,10,250.0,4,radio/TV,1,0,good,0.0069,62.5,good
+54,female,2,free,moderate,moderate,2432.29,5,5528.97,44,business,0,0,average,0.1894,125.66,good
+58,female,3,rent,moderate,rich,4490.84,37,250.0,6,furniture/equipment,0,0,average,0.0046,41.67,good
+23,male,2,own,little,little,2340.87,4,2312.0,43,furniture/equipment,1,0,good,0.0823,53.77,good
+36,male,2,own,quite rich,little,2838.73,9,4004.45,31,car,0,0,good,0.1176,129.18,good
+62,male,2,rent,moderate,little,3293.5,27,4971.86,25,business,0,1,poor,0.1258,198.87,good
+66,male,1,own,quite rich,little,2964.73,10,2052.54,65,radio/TV,4,0,good,0.0577,31.58,good
+43,female,1,rent,little,little,2145.65,1,4235.37,52,car,1,2,average,0.1645,81.45,good
+64,male,1,own,little,moderate,2542.48,34,1571.52,43,repairs,0,2,average,0.0515,36.55,good
+66,male,3,rent,moderate,little,4514.77,39,6800.35,64,furniture/equipment,0,1,good,0.1255,106.26,good
+40,male,2,own,little,none,3348.36,0,293.38,10,furniture/equipment,1,0,good,0.0073,29.34,good
+70,male,3,own,little,little,2779.63,2,2618.65,48,vacation,0,0,good,0.0785,54.56,good
+34,male,2,free,rich,moderate,2530.13,9,533.98,14,radio/TV,0,3,good,0.0176,38.14,good
+31,female,1,free,little,rich,1817.09,0,586.72,20,repairs,0,0,good,0.0269,29.34,good
+57,female,1,free,little,little,2454.02,28,2698.46,16,business,1,0,average,0.0916,168.65,good
+54,female,3,free,little,little,4033.54,34,3852.33,41,furniture/equipment,1,3,average,0.0796,93.96,good
+26,female,2,own,little,little,2193.52,2,4369.85,47,car,0,3,poor,0.166,92.98,bad
+66,male,3,own,moderate,little,4091.38,12,9055.3,56,car,0,0,poor,0.1844,161.7,bad
+29,female,1,own,quite rich,none,1652.09,10,270.96,34,radio/TV,1,1,average,0.0137,7.97,bad
+64,female,2,own,rich,rich,2879.93,14,7752.46,68,car,1,1,good,0.2243,114.01,bad
+18,female,3,own,moderate,rich,3666.04,0,5215.99,29,car,1,2,good,0.1186,179.86,good
+64,female,2,free,moderate,little,2814.44,9,1172.59,14,furniture/equipment,0,0,average,0.0347,83.76,good
+63,female,2,own,little,little,2332.21,3,844.46,6,business,1,0,average,0.0302,140.74,good
+63,female,3,own,quite rich,none,3677.96,34,1411.65,12,car,3,1,good,0.032,117.64,good
+56,male,2,own,little,little,3419.5,36,6468.31,34,business,1,0,average,0.1576,190.24,good
+45,female,2,own,none,little,2385.04,2,792.55,32,repairs,0,1,good,0.0277,24.77,good
+58,male,2,own,rich,moderate,3471.83,32,10673.98,62,business,1,0,good,0.2562,172.16,good
+34,male,2,rent,quite rich,none,2159.49,2,683.43,12,education,0,2,average,0.0264,56.95,good
+63,female,2,own,little,moderate,3009.56,5,4257.84,22,business,0,2,good,0.1179,193.54,good
+50,female,2,rent,moderate,little,2940.44,12,9283.98,71,car,0,1,good,0.2631,130.76,good
+44,female,2,free,little,moderate,2941.44,11,250.0,5,radio/TV,3,2,average,0.0071,50.0,good
+47,male,3,rent,little,moderate,4429.38,25,2288.29,33,repairs,0,0,average,0.0431,69.34,good
+50,female,1,rent,little,little,2321.77,23,1416.03,17,business,2,1,good,0.0508,83.3,good
+20,female,0,own,none,little,945.96,0,1355.56,40,education,1,0,average,0.1194,33.89,bad
+26,male,2,own,little,moderate,2533.28,5,2687.81,71,vacation,1,2,good,0.0884,37.86,good
+32,male,3,own,little,little,3557.62,13,3075.94,19,car,0,2,average,0.0721,161.89,good
+24,male,0,free,little,none,1268.16,4,900.61,29,radio/TV,1,3,good,0.0592,31.06,bad
+43,female,1,rent,little,little,1734.26,5,1296.88,34,furniture/equipment,0,2,poor,0.0623,38.14,bad
+56,male,2,own,rich,little,2016.92,5,5081.51,59,car,1,3,average,0.21,86.13,good
+55,female,3,own,moderate,moderate,3528.67,17,5565.57,71,furniture/equipment,0,0,good,0.1314,78.39,good
+45,male,1,rent,quite rich,little,2350.94,13,1037.65,10,education,0,3,good,0.0368,103.77,good
+67,female,2,rent,none,none,2997.69,14,2385.11,37,furniture/equipment,1,1,good,0.0663,64.46,good
+50,male,2,own,moderate,little,3094.84,3,2666.1,55,radio/TV,0,0,average,0.0718,48.47,good
+22,female,2,free,quite rich,moderate,3284.42,0,841.13,4,business,0,1,average,0.0213,210.28,good
+62,male,1,rent,little,moderate,2690.77,21,6510.03,59,car,4,0,average,0.2016,110.34,good
+51,male,1,rent,little,none,3183.88,32,1060.72,20,domestic appliances,0,0,poor,0.0278,53.04,good
+54,female,2,own,little,little,3418.37,22,4815.59,39,car,0,0,good,0.1174,123.48,good
+50,female,2,own,little,little,3548.46,14,2513.34,71,domestic appliances,0,0,average,0.059,35.4,good
+50,female,3,free,little,none,4697.8,30,5043.9,47,furniture/equipment,0,1,good,0.0895,107.32,good
+23,male,2,rent,little,little,3032.91,4,2607.25,72,radio/TV,1,2,average,0.0716,36.21,bad
+50,male,2,own,little,none,3422.23,23,3430.6,45,furniture/equipment,0,1,good,0.0835,76.24,good
+64,male,3,rent,moderate,none,3803.17,23,2645.48,18,car,1,1,average,0.058,146.97,good
+35,male,2,own,none,moderate,2910.53,13,2688.58,51,radio/TV,1,0,good,0.077,52.72,good
+52,female,2,rent,little,little,2906.76,17,4736.9,46,education,0,1,good,0.1358,102.98,good
+19,female,3,own,moderate,moderate,3542.44,1,3511.41,25,education,3,0,good,0.0826,140.46,good
+38,female,2,rent,none,none,2647.88,12,1093.77,9,car,4,2,poor,0.0344,121.53,bad
+43,female,2,own,little,little,3008.11,19,7366.17,48,business,0,0,good,0.2041,153.46,bad
+74,female,2,own,little,little,2675.69,36,4080.4,43,education,0,1,good,0.1271,94.89,good
+30,female,1,own,none,moderate,2578.08,3,5435.04,57,education,0,2,good,0.1757,95.35,bad
+34,male,2,rent,little,moderate,2797.83,11,966.98,12,radio/TV,0,1,good,0.0288,80.58,good
+41,male,1,own,none,little,2059.45,0,3394.94,41,car,1,2,poor,0.1374,82.8,bad
+75,female,1,own,little,moderate,2935.23,21,2422.99,60,repairs,1,0,poor,0.0688,40.38,good
+67,female,2,rent,rich,little,3605.1,36,2730.21,65,radio/TV,0,2,average,0.0631,42.0,good
+20,male,2,own,quite rich,little,3130.52,1,2973.87,68,radio/TV,0,1,average,0.0792,43.73,good
+31,male,3,own,little,none,2940.39,3,1843.51,18,business,0,2,good,0.0522,102.42,good
+65,female,3,own,little,little,4739.08,24,3620.73,15,car,4,1,good,0.0637,241.38,good
+21,male,3,rent,little,none,3705.49,1,5815.54,43,education,3,2,average,0.1308,135.25,bad
+67,male,2,own,quite rich,moderate,3098.22,17,4173.61,35,car,0,4,average,0.1123,119.25,good
+34,female,2,own,quite rich,little,3173.78,3,2888.61,20,business,1,0,good,0.0758,144.43,good
+71,female,2,own,none,little,2815.98,25,862.98,11,vacation,1,2,average,0.0255,78.45,good
+35,male,1,own,none,little,1873.98,3,250.0,13,vacation,1,1,good,0.0111,19.23,good
+43,female,3,own,little,little,4080.49,11,1520.74,27,repairs,1,1,good,0.0311,56.32,good
+56,male,2,own,quite rich,none,2846.53,36,1520.15,55,domestic appliances,2,3,good,0.0445,27.64,good
+25,female,1,own,quite rich,rich,2246.16,6,779.38,8,car,0,0,average,0.0289,97.42,bad
+50,male,3,own,none,moderate,3811.26,13,859.71,11,vacation,0,1,average,0.0188,78.16,good
+47,male,2,free,little,none,4014.23,29,2022.55,22,repairs,4,0,good,0.042,91.93,good
+63,male,0,own,none,moderate,645.97,0,1382.64,64,furniture/equipment,0,0,average,0.1784,21.6,bad
+75,male,1,own,moderate,little,3438.37,39,3610.6,72,radio/TV,0,2,average,0.0875,50.15,good
+56,female,2,free,quite rich,none,2729.19,13,4197.23,34,car,1,0,good,0.1282,123.45,good
+41,male,3,free,little,little,3618.55,19,322.63,7,furniture/equipment,2,0,average,0.0074,46.09,good
+41,male,1,rent,none,none,2022.3,22,250.0,4,business,1,0,good,0.0103,62.5,good
+42,male,3,own,little,none,3294.25,15,2758.14,63,radio/TV,2,1,good,0.0698,43.78,good
+65,female,3,own,little,moderate,4066.23,25,1693.67,34,radio/TV,1,2,good,0.0347,49.81,good
+36,female,3,own,quite rich,little,3260.68,14,431.95,9,furniture/equipment,0,2,good,0.011,47.99,good
+27,female,1,own,little,rich,2209.1,2,5118.75,61,car,1,0,good,0.1931,83.91,bad
+37,male,1,own,quite rich,moderate,1742.96,3,1035.63,40,repairs,2,1,good,0.0495,25.89,good
+19,male,3,own,little,moderate,2875.44,0,1422.14,28,radio/TV,2,1,good,0.0412,50.79,bad
+24,male,2,own,none,little,2490.27,3,4245.11,35,car,0,1,average,0.1421,121.29,bad
+23,male,2,rent,little,moderate,2817.85,4,1496.04,19,car,0,0,average,0.0442,78.74,bad
+62,female,2,own,none,little,2752.93,10,6036.88,68,education,2,0,good,0.1827,88.78,bad
+59,female,1,own,little,little,2486.97,23,1366.27,58,domestic appliances,0,1,good,0.0458,23.56,good
+58,male,3,rent,moderate,little,3543.67,0,2766.19,17,car,0,1,good,0.0651,162.72,good
+44,male,3,free,none,rich,3678.85,0,8029.89,54,car,2,1,average,0.1819,148.7,bad
+59,female,2,own,none,none,3466.47,39,519.2,16,radio/TV,1,1,poor,0.0125,32.45,good
+27,male,2,own,none,little,2434.52,8,3766.03,35,car,0,2,good,0.1289,107.6,bad
+70,male,3,own,none,moderate,4201.63,35,12514.76,55,business,0,1,average,0.2482,227.54,good
+47,male,2,own,quite rich,little,2989.73,9,724.98,6,car,0,0,average,0.0202,120.83,good
+72,male,2,rent,rich,moderate,2613.75,21,2966.84,54,furniture/equipment,2,2,poor,0.0946,54.94,good
+26,male,3,own,none,little,3138.29,6,977.68,19,radio/TV,1,2,good,0.026,51.46,good
+46,male,2,own,moderate,none,2523.28,7,1820.18,52,radio/TV,0,0,good,0.0601,35.0,good
+58,male,2,own,moderate,little,3277.26,30,1719.74,38,radio/TV,0,1,average,0.0437,45.26,good
+46,female,1,own,rich,little,2133.64,20,250.0,5,car,0,0,good,0.0098,50.0,good
+43,male,2,own,little,none,3097.46,10,7452.85,56,car,0,1,good,0.2005,133.09,good
+27,male,2,own,little,none,2138.2,4,1933.46,21,car,0,0,good,0.0754,92.07,bad
+40,female,2,free,little,none,2222.1,7,6675.05,69,car,1,1,good,0.2503,96.74,bad
+31,female,2,rent,quite rich,moderate,2758.14,11,2988.13,61,vacation,0,0,average,0.0903,48.99,good
+35,male,2,own,moderate,rich,2963.52,17,2240.77,17,car,0,1,average,0.063,131.81,good
+57,male,3,own,little,little,3765.87,39,2268.76,45,radio/TV,1,3,good,0.0502,50.42,good
+54,female,3,rent,little,none,3787.64,28,4746.67,28,car,0,0,poor,0.1044,169.52,good
+53,male,2,own,moderate,little,2759.63,12,6705.89,45,business,0,2,good,0.2025,149.02,good
+38,male,2,own,quite rich,moderate,2862.35,16,3145.17,42,repairs,0,4,poor,0.0916,74.89,good
+73,female,2,rent,little,moderate,2903.16,10,2562.7,24,education,0,2,good,0.0736,106.78,good
+23,male,2,own,moderate,little,2493.45,5,3071.74,48,furniture/equipment,0,0,average,0.1027,63.99,bad
+37,female,1,own,little,none,2542.24,5,1984.72,21,education,1,2,poor,0.0651,94.51,bad
+24,male,3,own,little,rich,3520.87,2,3349.2,66,radio/TV,0,0,average,0.0793,50.75,good
+37,female,3,own,little,moderate,3042.51,1,7244.15,69,education,2,0,average,0.1984,104.99,bad
+73,male,2,own,moderate,none,2708.08,3,1539.44,15,education,1,2,good,0.0474,102.63,good
+39,male,3,free,rich,moderate,3543.41,8,8021.69,54,car,0,1,average,0.1887,148.55,good
+70,male,3,own,little,none,4275.15,22,7244.99,68,furniture/equipment,0,1,average,0.1412,106.54,bad
+46,male,2,own,little,none,2389.87,0,1294.58,12,car,0,0,good,0.0451,107.88,good
+58,female,2,rent,little,moderate,3718.57,34,8166.13,55,car,0,2,poor,0.183,148.48,bad
+44,male,2,own,none,little,2689.65,3,6270.63,68,education,1,1,good,0.1943,92.22,good
+33,male,3,own,little,little,4197.05,15,2727.04,19,car,0,1,good,0.0541,143.53,good
+62,female,1,own,none,rich,2626.81,11,6732.42,44,business,2,2,poor,0.2136,153.01,bad
+74,female,2,rent,little,moderate,3043.94,15,2402.59,59,vacation,1,0,good,0.0658,40.72,good
+33,male,3,own,none,none,3258.2,2,2439.64,27,furniture/equipment,1,0,good,0.0624,90.36,good
+63,male,2,rent,little,little,3602.31,33,1161.29,20,radio/TV,2,1,good,0.0269,58.06,good
+33,female,3,free,moderate,moderate,3511.84,11,2661.72,31,furniture/equipment,1,4,average,0.0632,85.86,good
+59,female,2,rent,little,little,3263.11,3,3036.66,27,education,3,0,poor,0.0776,112.47,bad
+63,female,3,free,moderate,rich,3427.46,4,7242.43,54,car,4,0,good,0.1761,134.12,bad
+44,female,3,rent,quite rich,moderate,3558.03,16,3825.89,29,car,0,0,average,0.0896,131.93,good
+60,female,2,rent,little,none,3314.13,35,2933.95,29,furniture/equipment,0,2,average,0.0738,101.17,good
+33,male,2,rent,little,none,2200.44,1,2702.62,69,repairs,0,0,average,0.1024,39.17,bad
+22,male,2,rent,little,moderate,2819.8,1,2218.36,43,radio/TV,0,1,average,0.0656,51.59,bad
+23,male,2,rent,moderate,rich,2388.0,3,2922.06,68,radio/TV,1,4,poor,0.102,42.97,bad
+43,female,2,free,little,none,3034.35,2,2180.96,53,vacation,0,0,good,0.0599,41.15,good
+70,female,3,own,none,none,3147.47,12,8523.31,65,car,1,1,good,0.2257,131.13,good
+25,male,0,rent,little,moderate,1244.53,0,881.92,17,car,2,1,average,0.0591,51.88,bad
+44,male,1,own,little,none,2627.58,13,3706.21,68,furniture/equipment,0,2,good,0.1175,54.5,good
+58,male,2,rent,little,none,2571.71,29,7171.6,69,car,1,0,good,0.2324,103.94,bad
+29,female,2,own,moderate,moderate,3406.39,4,1069.57,6,car,0,0,good,0.0262,178.26,good
+59,male,2,rent,none,moderate,2701.15,10,1565.14,28,furniture/equipment,2,0,good,0.0483,55.9,good
+35,male,1,rent,little,moderate,2124.38,7,1456.27,32,furniture/equipment,1,1,poor,0.0571,45.51,good
+64,male,2,free,quite rich,moderate,3300.01,20,2394.66,32,furniture/equipment,0,2,good,0.0605,74.83,good
+51,male,3,own,little,little,3679.15,5,3902.91,57,radio/TV,1,0,average,0.0884,68.47,good
+49,male,0,rent,moderate,rich,1370.86,3,929.69,52,furniture/equipment,0,0,average,0.0565,17.88,good
+28,male,2,rent,little,little,2974.08,1,1449.77,18,furniture/equipment,1,2,good,0.0406,80.54,good
+44,male,3,free,little,little,4131.67,26,6550.65,46,education,1,0,good,0.1321,142.41,good
+67,male,1,free,quite rich,moderate,3241.31,29,7798.39,71,education,0,0,good,0.2005,109.84,good
+19,male,2,own,little,moderate,2782.81,0,4856.17,34,business,1,1,good,0.1454,142.83,bad
+61,male,2,own,little,rich,3587.62,12,3113.13,68,domestic appliances,2,0,good,0.0723,45.78,good
+46,male,3,own,quite rich,none,3890.38,11,6825.65,48,education,2,0,average,0.1462,142.2,good
+59,female,2,free,moderate,rich,2142.99,7,5937.27,67,car,1,1,good,0.2309,88.62,bad
+56,male,3,own,moderate,little,5038.89,33,6257.01,66,repairs,1,0,good,0.1035,94.8,good
+43,male,1,rent,none,moderate,2298.98,24,641.64,5,domestic appliances,0,1,good,0.0233,128.33,good
+35,male,2,rent,none,rich,3223.44,4,3100.05,59,radio/TV,2,1,good,0.0801,52.54,good
+54,male,2,own,moderate,little,2609.38,0,1592.87,17,car,2,1,good,0.0509,93.7,good
+26,male,2,own,little,moderate,3021.38,2,4427.71,60,furniture/equipment,0,0,poor,0.1221,73.8,bad
+51,male,2,own,little,moderate,2834.03,19,2638.13,59,radio/TV,0,2,good,0.0776,44.71,good
+23,female,0,rent,moderate,moderate,1519.01,4,1348.46,21,business,0,0,good,0.074,64.21,bad
+55,male,3,own,little,rich,3511.38,12,250.0,8,furniture/equipment,0,2,average,0.0059,31.25,good
+54,male,2,own,none,moderate,3402.65,10,3637.02,32,car,0,0,average,0.0891,113.66,good
+22,male,2,rent,none,none,2778.53,1,2750.9,24,car,0,2,average,0.0825,114.62,bad
+61,male,2,own,little,none,2927.58,0,1553.73,42,domestic appliances,1,0,good,0.0442,36.99,bad
+42,male,2,free,moderate,rich,1842.57,0,250.0,9,car,0,0,average,0.0113,27.78,good
+63,female,2,own,quite rich,rich,2995.05,17,1519.09,7,business,0,1,good,0.0423,217.01,good
+20,female,2,own,none,rich,2768.69,1,1433.7,34,radio/TV,1,0,average,0.0432,42.17,good
+28,male,2,own,little,none,2678.27,0,2766.09,57,radio/TV,0,0,good,0.0861,48.53,bad
+46,male,1,own,little,little,2361.41,5,1525.7,25,furniture/equipment,0,1,average,0.0538,61.03,bad
+28,male,3,own,little,moderate,3421.93,10,3206.42,26,car,2,2,average,0.0781,123.32,good
+37,male,3,rent,little,moderate,3792.08,19,1510.54,15,furniture/equipment,4,0,average,0.0332,100.7,good
+56,female,2,own,quite rich,none,3638.43,25,4661.45,23,business,1,2,good,0.1068,202.67,good
+26,male,2,own,little,little,1902.46,4,1645.36,24,car,0,2,average,0.0721,68.56,good
+57,male,1,own,little,none,2681.27,23,250.0,21,radio/TV,0,2,average,0.0078,11.9,good
+23,female,3,own,rich,little,3233.14,2,4623.09,27,business,3,1,good,0.1192,171.23,good
+28,male,3,free,none,little,3030.69,2,3259.22,23,business,1,1,good,0.0896,141.71,bad
+52,male,3,own,rich,none,3742.79,13,4814.94,50,furniture/equipment,2,1,good,0.1072,96.3,good
+64,female,2,free,little,none,3729.61,28,3361.61,27,education,1,1,good,0.0751,124.5,good
+27,male,1,own,little,rich,2413.7,6,6209.17,56,car,0,3,average,0.2144,110.88,good
+35,male,1,own,quite rich,moderate,2152.71,12,3105.94,45,car,0,0,good,0.1202,69.02,good
+71,male,1,own,little,rich,2806.51,24,3197.21,48,furniture/equipment,2,0,average,0.0949,66.61,good
+75,female,1,own,little,little,2253.82,2,5778.08,44,business,2,0,average,0.2136,131.32,bad
+51,male,1,rent,little,little,2394.42,21,5258.79,67,education,0,3,average,0.183,78.49,bad
+43,male,3,own,moderate,little,3607.42,22,3029.68,21,car,1,0,average,0.07,144.27,good
+38,male,1,own,little,little,2002.67,13,3156.54,71,furniture/equipment,0,1,average,0.1313,44.46,bad
+53,male,1,rent,little,little,2693.25,20,2271.61,18,business,3,2,good,0.0703,126.2,good
+52,female,3,rent,moderate,moderate,3460.25,7,1934.67,13,car,0,4,good,0.0466,148.82,good
+35,male,2,free,moderate,moderate,2583.84,14,3159.5,61,furniture/equipment,1,0,average,0.1019,51.8,good
+19,male,2,free,little,moderate,2010.3,0,3004.57,65,furniture/equipment,0,2,poor,0.1245,46.22,bad
+26,male,2,rent,none,little,2941.14,2,1407.36,10,car,1,2,good,0.0399,140.74,good
+73,female,3,rent,little,little,3608.63,20,2282.13,45,radio/TV,1,0,poor,0.0527,50.71,bad
+42,male,2,rent,none,little,2790.64,3,4044.01,39,car,0,2,poor,0.1208,103.69,bad
+45,female,2,own,none,none,3658.9,25,1223.13,19,domestic appliances,2,0,good,0.0279,64.38,good
+45,female,2,rent,little,moderate,2616.88,19,4459.48,39,car,2,1,average,0.142,114.35,good
+63,male,2,own,none,little,2909.2,13,5641.93,51,car,2,1,average,0.1616,110.63,bad
+21,female,2,rent,little,moderate,2615.26,3,4074.32,43,car,0,0,good,0.1298,94.75,good
+22,female,2,free,moderate,none,2732.91,0,3971.39,39,car,1,0,good,0.1211,101.83,bad
+33,male,1,own,little,rich,2483.71,6,6810.29,65,car,1,0,good,0.2285,104.77,good
+46,female,3,rent,rich,rich,3284.69,18,1566.44,19,furniture/equipment,1,0,average,0.0397,82.44,good
+56,male,2,free,quite rich,little,2799.43,0,5688.61,47,car,1,1,good,0.1693,121.03,good
+46,female,1,own,moderate,moderate,2761.03,20,876.17,25,radio/TV,1,0,average,0.0264,35.05,good
+43,female,2,own,rich,little,3059.77,21,8500.89,71,car,0,0,average,0.2315,119.73,good
+72,male,3,free,quite rich,moderate,3851.89,24,1547.18,21,radio/TV,0,1,average,0.0335,73.68,good
+27,female,2,free,little,moderate,2796.46,2,7086.7,64,car,0,1,good,0.2112,110.73,bad
+51,male,2,own,moderate,moderate,3345.69,25,3743.73,47,furniture/equipment,0,1,good,0.0932,79.65,good
+49,female,3,own,none,moderate,3753.82,10,2927.39,18,business,0,3,good,0.065,162.63,good
+45,female,1,rent,moderate,little,2596.45,20,7405.64,56,business,0,0,good,0.2377,132.24,good
+64,male,2,own,little,moderate,2881.31,25,2756.83,20,car,2,2,good,0.0797,137.84,good
+33,male,2,own,none,moderate,2971.59,1,476.2,22,domestic appliances,1,0,good,0.0134,21.65,good
+73,male,1,own,little,none,2408.37,4,3739.67,27,business,0,1,good,0.1294,138.51,good
+37,male,2,own,rich,none,2665.13,0,4617.73,51,car,2,4,average,0.1444,90.54,good
+49,male,3,own,little,moderate,2827.05,2,1054.31,31,radio/TV,3,2,good,0.0311,34.01,good
+48,male,2,rent,little,moderate,2784.84,9,4122.64,43,education,2,1,good,0.1234,95.88,good
+67,male,2,rent,little,little,2693.04,1,2346.5,42,radio/TV,2,1,poor,0.0726,55.87,good
+43,male,2,rent,little,rich,2799.39,24,250.0,17,radio/TV,4,0,good,0.0074,14.71,good
+34,female,2,own,quite rich,moderate,2848.95,15,1597.91,20,furniture/equipment,1,1,poor,0.0467,79.9,good
+19,female,2,own,moderate,little,2106.72,0,2573.38,25,car,3,2,average,0.1018,102.94,good
+39,female,2,own,little,little,2962.55,6,532.28,19,vacation,3,4,good,0.015,28.01,good
+65,male,2,own,little,little,3408.08,30,9174.53,67,car,0,1,poor,0.2243,136.93,bad
+18,female,1,own,none,moderate,1323.98,0,1678.53,30,car,2,0,poor,0.1056,55.95,bad
+69,male,2,own,little,little,3398.01,27,3708.72,31,car,2,1,average,0.091,119.64,good
+49,male,2,own,quite rich,little,3030.22,18,2027.49,50,radio/TV,2,0,good,0.0558,40.55,good
+26,male,2,own,moderate,moderate,2980.74,8,2527.41,58,domestic appliances,2,0,good,0.0707,43.58,good
+35,female,1,rent,little,moderate,2037.96,11,3846.82,51,education,0,0,good,0.1573,75.43,good
+50,male,2,rent,moderate,moderate,2869.48,22,1343.34,42,domestic appliances,0,1,average,0.039,31.98,good
+36,male,2,free,little,none,2555.2,9,4278.34,71,furniture/equipment,1,0,good,0.1395,60.26,good
+24,female,1,rent,little,moderate,1786.64,3,1952.0,66,radio/TV,1,0,good,0.091,29.58,bad
+56,male,1,own,little,little,2181.59,11,849.82,17,radio/TV,2,0,good,0.0325,49.99,good
+56,male,2,own,moderate,none,3151.79,20,1707.91,15,car,2,2,good,0.0452,113.86,good
+24,female,2,own,little,moderate,2683.25,6,1584.33,31,domestic appliances,1,1,good,0.0492,51.11,good
+34,male,2,own,rich,moderate,2601.84,6,4229.82,61,furniture/equipment,3,0,good,0.1355,69.34,good
+32,male,3,own,little,little,3202.01,1,3539.62,70,radio/TV,0,0,poor,0.0921,50.57,good
+56,female,2,own,none,moderate,4052.7,23,4580.09,52,furniture/equipment,3,1,good,0.0942,88.08,good
+60,female,2,own,little,little,3130.25,32,5179.41,51,education,0,0,good,0.1379,101.56,good
+60,male,2,own,little,none,3379.71,39,2629.45,20,car,1,1,good,0.0648,131.47,bad
+72,female,2,rent,little,little,4302.85,22,9963.89,44,business,0,0,good,0.193,226.45,good
+62,male,2,rent,little,little,3547.35,32,2272.38,16,business,1,3,average,0.0534,142.02,good
+36,male,3,rent,moderate,moderate,2917.01,4,4383.79,41,education,0,0,good,0.1252,106.92,good
+24,male,2,rent,little,moderate,2944.94,2,2559.26,17,car,0,1,poor,0.0724,150.54,bad
+53,male,2,own,moderate,moderate,2656.49,15,1206.85,9,car,1,0,poor,0.0379,134.09,good
+71,female,2,own,moderate,none,3243.17,13,3040.31,70,radio/TV,1,3,average,0.0781,43.43,bad
+74,female,2,rent,little,little,3251.16,29,7078.63,65,education,0,4,average,0.1814,108.9,bad
+31,male,1,own,little,none,2046.07,12,1641.71,51,vacation,1,1,good,0.0669,32.19,good
+31,male,2,own,none,moderate,3263.21,4,3517.33,47,furniture/equipment,0,1,average,0.0898,74.84,good
+20,male,2,own,little,little,2798.24,0,2462.45,20,car,0,0,good,0.0733,123.12,good
+26,female,3,free,moderate,little,3815.55,7,6940.16,43,car,0,2,average,0.1516,161.4,good
+50,male,2,rent,quite rich,moderate,3452.22,28,4867.11,55,furniture/equipment,1,1,good,0.1175,88.49,good
+49,female,2,own,moderate,moderate,3169.44,29,4853.32,41,car,2,0,good,0.1276,118.37,good
+39,male,3,rent,little,little,3638.97,5,2041.56,23,furniture/equipment,1,1,good,0.0468,88.76,good
+35,male,2,own,moderate,little,3323.23,12,3460.31,31,education,2,1,average,0.0868,111.62,good
+66,female,1,own,moderate,moderate,2672.16,29,2376.62,62,radio/TV,1,2,average,0.0741,38.33,good
+44,female,1,own,little,little,3055.57,21,1281.53,21,radio/TV,2,1,good,0.035,61.03,good
+64,male,1,own,quite rich,none,3022.67,33,9029.05,70,car,4,1,good,0.2489,128.99,good
+73,female,0,rent,none,moderate,2249.19,39,5702.53,56,car,0,1,good,0.2113,101.83,bad
+36,female,2,own,none,little,2913.02,9,10110.92,65,business,0,0,average,0.2892,155.55,bad
+29,male,2,rent,none,little,2648.03,0,1462.06,39,radio/TV,0,0,good,0.046,37.49,good
+73,male,2,own,none,none,2337.07,7,1712.03,19,car,1,0,good,0.061,90.11,good
+54,male,0,rent,quite rich,little,1968.47,32,250.0,6,car,1,2,average,0.0106,41.67,good
+34,female,2,rent,little,little,3027.42,14,5480.68,40,car,0,0,average,0.1509,137.02,bad
+54,male,1,rent,little,little,1754.37,0,1140.23,31,furniture/equipment,2,0,average,0.0542,36.78,good
+47,male,3,rent,little,little,3693.19,11,1150.28,11,furniture/equipment,3,0,average,0.026,104.57,good
+70,male,1,free,little,little,2157.46,10,3694.77,68,furniture/equipment,0,0,poor,0.1427,54.33,bad
+32,female,2,own,little,moderate,2970.79,4,4354.16,70,furniture/equipment,0,1,good,0.1221,62.2,bad
+75,male,2,rent,none,rich,3482.09,26,3754.04,29,car,0,0,good,0.0898,129.45,good
+72,female,2,rent,moderate,none,3158.5,20,4303.72,50,furniture/equipment,0,0,poor,0.1135,86.07,good
+28,male,2,own,none,none,2246.48,5,3051.57,32,car,2,2,good,0.1132,95.36,bad
+27,female,2,own,moderate,moderate,3326.75,4,1980.05,38,repairs,1,0,average,0.0496,52.11,good
+48,male,2,own,little,rich,3025.34,19,5755.59,47,car,0,0,good,0.1585,122.46,good
+20,male,3,own,moderate,moderate,3321.69,2,1984.62,32,radio/TV,1,0,good,0.0498,62.02,good
+35,female,2,own,quite rich,none,2480.12,0,6348.75,59,car,0,2,good,0.2133,107.61,bad
+43,female,2,own,none,little,2504.06,3,903.48,17,education,0,0,average,0.0301,53.15,good
+74,male,3,rent,none,none,4165.42,13,9158.11,50,car,0,2,average,0.1832,183.16,bad
+75,male,3,own,rich,moderate,4210.12,17,5617.53,71,repairs,1,3,good,0.1112,79.12,good
+26,female,1,rent,little,little,2255.54,8,5649.29,62,car,1,1,good,0.2087,91.12,bad
+69,female,2,own,moderate,little,3462.37,36,371.59,7,education,2,0,good,0.0089,53.08,good
+23,male,2,rent,none,little,2891.69,3,1163.8,11,furniture/equipment,0,1,good,0.0335,105.8,good
+61,male,2,own,little,little,2650.83,1,5277.96,47,car,2,1,good,0.1659,112.3,bad
+67,female,2,own,little,little,2633.42,4,6621.48,67,car,0,0,poor,0.2095,98.83,bad
+69,female,3,own,quite rich,none,3868.34,18,3404.79,62,radio/TV,0,1,good,0.0733,54.92,good
+30,female,3,rent,little,moderate,3320.59,7,8921.03,66,education,2,0,good,0.2239,135.17,bad
+69,male,2,own,moderate,moderate,3363.29,27,555.94,14,domestic appliances,1,0,good,0.0138,39.71,good
+24,male,2,free,moderate,moderate,2671.48,0,3957.54,39,car,0,0,good,0.1235,101.48,good
+48,female,3,own,none,little,4186.03,27,2893.1,54,radio/TV,1,0,good,0.0576,53.58,good
+45,female,3,own,little,moderate,3408.3,13,7249.94,47,car,1,0,average,0.1773,154.25,good
+36,female,1,own,little,moderate,2423.55,11,5979.92,57,car,3,1,average,0.2056,104.91,bad
+19,male,2,rent,little,none,2282.79,0,1521.75,18,furniture/equipment,1,3,average,0.0556,84.54,bad
+62,male,3,own,moderate,none,3924.6,33,2102.46,35,radio/TV,0,0,good,0.0446,60.07,good
+37,female,2,own,little,moderate,2664.88,10,4201.35,34,car,1,1,average,0.1314,123.57,bad
+56,male,2,own,little,little,2424.78,8,1584.33,68,domestic appliances,0,1,poor,0.0544,23.3,bad
+41,female,3,own,moderate,none,3830.48,7,3483.74,17,business,0,0,poor,0.0758,204.93,good
+39,male,3,own,moderate,none,3135.83,7,2968.43,26,education,1,0,poor,0.0789,114.17,good
+69,female,3,free,little,none,3080.38,1,1181.89,5,car,2,0,good,0.032,236.38,good
+23,female,3,own,little,little,3864.39,5,758.72,14,domestic appliances,0,0,poor,0.0164,54.19,good
+60,male,2,own,little,little,3200.3,32,5051.63,71,furniture/equipment,2,0,average,0.1315,71.15,bad
+61,male,2,free,moderate,none,3434.15,36,4993.7,62,furniture/equipment,1,0,average,0.1212,80.54,good
+40,female,2,own,little,moderate,2445.79,8,1426.7,21,car,2,1,average,0.0486,67.94,good
+33,male,2,own,little,little,3091.53,8,947.14,52,domestic appliances,0,0,poor,0.0255,18.21,bad
+18,male,2,rent,none,little,2896.36,0,3306.13,44,furniture/equipment,0,0,good,0.0951,75.14,good
+72,female,2,free,moderate,little,3308.63,18,7493.04,66,education,0,0,average,0.1887,113.53,bad
+72,female,2,rent,moderate,moderate,3263.14,19,1722.79,24,furniture/equipment,0,1,average,0.044,71.78,good
+31,male,2,own,little,rich,2825.76,8,7453.29,72,education,0,0,average,0.2198,103.52,bad
+19,male,2,free,quite rich,little,2416.47,0,4237.88,29,business,0,1,average,0.1461,146.13,bad
+25,male,2,own,quite rich,none,2464.76,6,2499.86,53,repairs,0,0,good,0.0845,47.17,bad
+21,male,1,free,none,little,2351.47,0,3747.8,31,car,0,0,good,0.1328,120.9,bad
+66,male,1,rent,moderate,none,2342.68,7,4984.05,50,car,3,3,good,0.1773,99.68,bad
+69,male,3,free,little,moderate,3957.34,36,5730.41,27,business,2,0,average,0.1207,212.24,good
+26,female,2,own,rich,none,2788.94,7,4130.82,62,furniture/equipment,0,0,average,0.1234,66.63,bad
+61,male,1,own,little,rich,2619.96,33,2359.02,47,furniture/equipment,3,0,average,0.075,50.19,good
+28,female,2,rent,little,little,2305.13,4,3165.84,23,business,0,4,average,0.1144,137.65,bad
+39,male,2,own,little,little,2912.18,10,3778.37,70,furniture/equipment,0,1,average,0.1081,53.98,good
+52,male,0,own,little,moderate,1054.58,0,1684.83,52,education,2,1,good,0.1331,32.4,bad
+59,female,2,free,moderate,none,2541.61,11,1232.32,33,radio/TV,0,4,average,0.0404,37.34,good
+68,female,1,rent,little,moderate,2107.3,29,642.92,13,education,0,0,poor,0.0254,49.46,bad
+20,male,2,own,little,none,2077.67,1,5842.81,71,car,0,4,average,0.2343,82.29,bad
+29,male,2,own,little,moderate,2595.0,5,4126.55,56,furniture/equipment,1,0,poor,0.1325,73.69,bad
+34,male,1,own,quite rich,little,1920.22,2,1561.74,50,domestic appliances,1,1,poor,0.0678,31.23,bad
+35,male,1,own,moderate,none,1793.64,8,4193.33,61,car,0,0,good,0.1948,68.74,bad
+75,male,2,own,little,moderate,3552.76,29,2143.67,45,radio/TV,0,0,average,0.0503,47.64,good
+63,male,0,rent,little,none,1752.06,23,250.0,20,radio/TV,0,3,good,0.0119,12.5,good
+36,male,3,rent,none,none,3751.91,10,2032.89,20,furniture/equipment,1,0,good,0.0452,101.64,good
+74,male,1,own,quite rich,moderate,2760.98,37,262.48,9,radio/TV,0,4,good,0.0079,29.16,good
+46,female,2,own,moderate,little,2474.51,6,250.0,8,car,2,0,good,0.0084,31.25,good
+47,female,2,rent,little,moderate,2839.94,8,1829.48,54,domestic appliances,1,1,good,0.0537,33.88,good
+43,male,2,rent,quite rich,moderate,2558.06,16,6651.75,62,car,0,3,average,0.2167,107.29,bad
+26,male,1,free,none,moderate,2188.8,4,1151.34,15,furniture/equipment,1,0,good,0.0438,76.76,good
+72,male,3,own,moderate,little,3972.0,40,3955.9,43,furniture/equipment,0,3,good,0.083,92.0,good
+18,male,3,rent,little,none,3621.38,0,1625.41,12,car,0,1,good,0.0374,135.45,bad
+28,female,0,own,none,rich,1081.54,0,2207.72,32,car,0,1,good,0.1701,68.99,bad
+31,female,1,own,little,none,2296.89,1,1945.42,58,vacation,1,0,poor,0.0706,33.54,bad
+34,female,3,free,little,little,3032.08,5,9838.88,60,business,1,1,good,0.2704,163.98,bad
+25,female,2,own,rich,little,2437.78,3,6652.63,69,car,3,1,good,0.2274,96.41,bad
+19,female,1,own,little,little,2058.33,1,2077.0,25,education,0,1,poor,0.0841,83.08,bad
+57,female,1,own,quite rich,little,2784.67,19,3901.07,69,furniture/equipment,0,0,average,0.1167,56.54,bad
+74,male,2,own,moderate,moderate,3608.31,17,8360.85,58,car,1,0,average,0.1931,144.15,good
+25,male,2,own,moderate,moderate,2639.48,1,3258.15,27,business,0,2,average,0.1029,120.67,good
+35,male,2,rent,quite rich,moderate,3418.21,7,1831.72,26,furniture/equipment,0,0,good,0.0447,70.45,bad
+47,male,3,own,little,little,3573.62,15,2105.34,11,car,3,1,average,0.0491,191.39,good
+71,male,2,own,little,little,3559.57,23,2537.47,67,domestic appliances,2,4,good,0.0594,37.87,good
+58,female,2,free,none,none,2870.24,24,1040.74,18,radio/TV,3,0,good,0.0302,57.82,good
+62,female,2,own,little,moderate,3172.07,17,1624.61,22,radio/TV,0,0,good,0.0427,73.85,good
+51,male,2,free,quite rich,little,1905.41,5,2478.7,32,car,0,1,average,0.1084,77.46,good
+42,male,1,own,little,little,1582.44,3,1117.52,13,education,0,0,good,0.0589,85.96,good
+29,male,0,own,little,none,1388.34,1,4512.82,59,business,3,1,good,0.2709,76.49,bad
+68,male,2,own,little,moderate,2765.65,25,1724.4,52,domestic appliances,0,1,good,0.052,33.16,good
+64,female,2,rent,little,moderate,3624.43,35,2372.09,14,car,0,1,average,0.0545,169.44,good
+19,male,0,own,moderate,moderate,1542.26,1,1545.66,15,education,0,0,good,0.0835,103.04,good
+59,female,2,free,little,none,2724.54,12,250.0,5,furniture/equipment,2,1,good,0.0076,50.0,good
+22,male,2,own,moderate,rich,2260.87,0,1891.32,69,radio/TV,2,1,good,0.0697,27.41,good
+60,male,2,rent,moderate,little,3059.03,25,3839.79,34,car,1,0,average,0.1046,112.94,good
+65,male,2,own,moderate,little,2286.97,1,4319.92,49,education,0,1,good,0.1574,88.16,bad
+25,female,3,own,little,little,3389.58,5,2389.46,14,car,1,2,poor,0.0587,170.68,good
+43,female,2,own,moderate,little,2860.73,9,1053.44,19,furniture/equipment,0,1,good,0.0307,55.44,good
+25,male,1,own,none,little,1942.9,6,1004.3,41,furniture/equipment,0,1,good,0.0431,24.5,good
+50,female,2,own,little,little,3686.03,20,2439.33,18,car,0,0,good,0.0551,135.52,good
+71,male,2,rent,moderate,little,3098.21,30,2297.52,46,vacation,1,0,good,0.0618,49.95,good
+22,female,2,own,moderate,moderate,3137.0,2,7329.58,67,education,0,0,good,0.1947,109.4,bad
+41,male,0,own,little,moderate,1335.57,20,851.22,25,furniture/equipment,3,0,good,0.0531,34.05,bad
+74,male,1,own,quite rich,moderate,2450.47,21,5579.9,45,business,1,4,poor,0.1898,124.0,bad
+35,female,2,own,none,little,3289.09,11,3619.35,67,radio/TV,0,0,good,0.0917,54.02,bad
+25,male,2,own,moderate,none,3045.98,2,10531.68,65,business,1,2,good,0.2881,162.03,bad
+46,male,1,rent,rich,moderate,2077.91,13,573.98,4,car,1,0,good,0.023,143.5,good
+47,male,3,own,little,none,4119.27,25,724.43,11,radio/TV,0,0,good,0.0147,65.86,good
+56,male,3,free,quite rich,little,3822.41,15,4223.28,72,radio/TV,1,0,good,0.0921,58.66,good
+36,female,1,own,moderate,none,1711.02,0,1855.24,67,radio/TV,0,0,good,0.0904,27.69,good
+73,female,3,own,moderate,moderate,3890.58,15,1103.95,26,radio/TV,0,2,good,0.0236,42.46,good
+48,female,0,free,moderate,little,2151.87,12,3576.08,39,car,1,3,good,0.1385,91.69,good
+34,male,3,own,moderate,moderate,3640.1,7,2599.25,43,vacation,1,2,poor,0.0595,60.45,good
+73,male,3,own,little,little,3548.22,2,7706.34,50,car,0,0,average,0.181,154.13,bad
+71,male,0,free,moderate,little,1560.25,5,3670.5,55,car,0,2,poor,0.196,66.74,bad
+46,male,2,free,little,little,2313.66,9,592.39,29,radio/TV,1,0,good,0.0213,20.43,good
+19,male,3,rent,rich,none,3461.08,0,4924.78,65,furniture/equipment,0,3,poor,0.1186,75.77,bad
+52,female,3,own,little,little,2969.13,1,795.86,8,car,3,1,good,0.0223,99.48,good
+50,female,3,rent,little,moderate,3393.54,12,550.88,6,furniture/equipment,1,0,good,0.0135,91.81,good
+26,female,2,free,quite rich,little,3406.68,2,12470.65,70,business,2,0,average,0.3051,178.15,bad
+54,male,1,free,little,none,1836.36,1,750.26,16,car,0,0,good,0.034,46.89,good
+66,male,3,own,little,moderate,3290.94,10,3003.6,72,vacation,2,0,good,0.0761,41.72,good
+24,male,2,own,moderate,little,3028.4,1,250.0,23,radio/TV,0,3,average,0.0069,10.87,good
+59,male,2,own,none,none,2393.31,5,371.68,29,furniture/equipment,0,2,average,0.0129,12.82,bad
+26,male,2,own,none,none,2593.4,6,476.77,5,car,0,3,good,0.0153,95.35,good
+61,male,2,rent,little,little,3087.17,2,12111.37,69,business,0,0,good,0.3269,175.53,bad
+42,male,1,own,little,little,2264.97,14,2938.38,28,education,3,1,good,0.1081,104.94,good
+18,female,2,own,little,moderate,2053.44,0,866.44,15,car,1,0,poor,0.0352,57.76,good
+74,male,1,own,none,little,2765.4,27,4238.02,37,car,1,1,good,0.1277,114.54,good
+27,female,2,own,little,moderate,2661.24,8,250.0,14,radio/TV,1,0,good,0.0078,17.86,good
+52,male,3,own,little,little,4313.95,19,9692.03,58,car,1,0,good,0.1872,167.1,bad
+28,male,2,own,none,moderate,2512.83,5,250.0,9,vacation,1,1,poor,0.0083,27.78,good
+72,male,2,own,moderate,moderate,3742.93,31,3228.53,38,furniture/equipment,2,0,average,0.0719,84.96,good
+60,male,2,free,moderate,little,4096.49,35,2794.56,30,furniture/equipment,1,1,good,0.0568,93.15,good
+64,male,3,own,none,none,3202.17,8,437.31,6,repairs,1,1,poor,0.0114,72.89,bad
+43,male,2,own,little,little,3032.38,20,1008.22,7,education,0,0,good,0.0277,144.03,good
+45,female,2,own,quite rich,rich,3036.02,12,4009.41,39,education,4,3,poor,0.1101,102.81,good
+54,male,1,own,moderate,rich,1674.93,3,771.69,31,radio/TV,0,1,good,0.0384,24.89,good
+63,female,1,own,little,little,2619.6,25,250.0,12,radio/TV,0,2,good,0.008,20.83,good
+67,male,2,own,little,moderate,3521.28,40,250.0,13,radio/TV,2,1,good,0.0059,19.23,good
+19,male,3,own,little,little,3214.23,0,2165.99,59,radio/TV,0,1,poor,0.0562,36.71,bad
+56,male,2,own,quite rich,none,2617.13,0,2320.69,54,radio/TV,0,1,poor,0.0739,42.98,bad
+24,male,1,rent,quite rich,moderate,2074.94,6,3677.54,45,car,0,2,average,0.1477,81.72,bad
+34,female,3,own,quite rich,little,3607.36,10,2460.6,61,radio/TV,0,1,good,0.0568,40.34,good
+66,female,2,own,little,little,2590.41,8,276.98,8,radio/TV,3,0,good,0.0089,34.62,good
+32,female,3,rent,little,moderate,3380.69,11,2014.86,51,radio/TV,2,0,good,0.0497,39.51,good
+64,male,2,own,none,little,2958.49,16,7308.43,55,car,1,1,good,0.2059,132.88,bad
+44,male,2,own,little,moderate,2784.33,8,458.75,17,radio/TV,4,0,good,0.0137,26.99,good
+31,female,3,own,little,little,3246.4,4,3378.33,41,furniture/equipment,1,0,average,0.0867,82.4,good
+37,male,2,own,moderate,none,2988.38,11,9221.42,56,business,2,0,average,0.2571,164.67,bad
+48,male,2,own,little,little,2064.83,4,4496.19,45,business,0,1,poor,0.1815,99.92,bad
+62,male,3,free,quite rich,rich,3394.34,14,2941.07,21,car,1,0,good,0.0722,140.05,good
+53,female,1,free,none,little,2052.03,10,4327.16,49,car,0,1,good,0.1757,88.31,good
+72,female,1,free,none,none,1650.36,2,1394.01,56,radio/TV,0,2,good,0.0704,24.89,good
+68,female,2,own,quite rich,moderate,3945.22,31,788.83,4,car,1,2,good,0.0167,197.21,good
+61,female,2,own,moderate,rich,2606.6,0,1102.7,43,radio/TV,0,0,average,0.0353,25.64,good
+52,male,1,own,little,rich,2786.87,33,1766.0,38,vacation,1,1,average,0.0528,46.47,good
+34,female,2,own,moderate,little,2455.87,1,2713.69,29,car,1,1,good,0.0921,93.58,good
+41,male,2,own,little,little,2794.48,8,425.05,7,radio/TV,0,1,good,0.0127,60.72,good
+24,female,2,own,none,little,2174.66,0,1395.52,9,business,0,1,poor,0.0535,155.06,bad
+39,male,2,own,little,moderate,2740.56,8,3784.58,55,furniture/equipment,1,0,good,0.1151,68.81,bad
+71,female,3,own,little,moderate,3597.05,25,9099.14,61,car,2,4,good,0.2108,149.17,good
+42,male,2,own,moderate,moderate,2552.91,2,3592.65,32,car,0,0,average,0.1173,112.27,good
+24,male,3,rent,little,little,2479.03,3,3225.41,68,repairs,4,2,average,0.1084,47.43,bad
+55,male,2,own,moderate,none,2930.2,29,8734.39,68,car,2,1,good,0.2484,128.45,bad
+73,male,3,rent,moderate,little,4262.37,18,4859.69,49,furniture/equipment,1,0,average,0.095,99.18,good
+68,male,2,own,none,none,2990.64,4,4671.17,44,education,0,1,poor,0.1302,106.16,bad
+33,female,1,own,none,none,2636.66,11,7909.28,70,car,1,0,good,0.25,112.99,bad
+44,male,3,own,little,little,3910.7,5,9248.19,46,business,2,2,good,0.1971,201.05,good
+48,female,2,own,moderate,moderate,2835.55,0,7339.27,68,car,0,1,average,0.2157,107.93,bad
+32,male,1,own,moderate,moderate,1891.5,6,2155.78,71,radio/TV,4,0,average,0.095,30.36,good
+33,female,1,own,moderate,moderate,1636.96,4,323.42,17,radio/TV,3,0,good,0.0165,19.02,good
+31,male,2,rent,little,moderate,3001.36,0,1661.71,49,vacation,1,2,good,0.0461,33.91,good
+75,female,0,own,little,moderate,1997.6,31,4604.92,54,car,1,0,average,0.1921,85.28,bad
+61,male,2,own,little,moderate,4072.91,24,10551.08,60,car,1,2,good,0.2159,175.85,good
+66,male,1,free,little,none,2697.22,37,669.74,28,repairs,2,2,good,0.0207,23.92,good
+65,female,2,own,moderate,moderate,3765.51,19,10095.7,63,car,2,1,good,0.2234,160.25,good
+73,male,2,own,little,none,2970.12,17,267.27,37,domestic appliances,0,0,good,0.0075,7.22,good
+24,male,2,own,little,none,3192.62,5,2074.72,30,furniture/equipment,0,1,poor,0.0542,69.16,bad
+69,female,2,own,little,none,3268.84,3,1804.03,14,furniture/equipment,0,3,average,0.046,128.86,good
+21,female,0,own,little,moderate,866.97,1,1052.08,26,business,3,0,good,0.1011,40.46,good
+45,male,2,own,moderate,moderate,2980.25,22,11144.86,71,business,0,0,poor,0.3116,156.97,good
+52,male,2,rent,little,rich,2488.46,10,5690.59,53,car,2,0,good,0.1906,107.37,good
+38,female,2,own,quite rich,rich,2619.52,18,1376.28,54,vacation,1,0,good,0.0438,25.49,good
+26,female,1,own,quite rich,rich,2183.47,2,2512.54,65,repairs,0,1,good,0.0959,38.65,good
+29,female,0,own,quite rich,none,1231.18,4,341.69,22,domestic appliances,3,1,average,0.0231,15.53,bad
+65,male,2,free,moderate,moderate,3518.33,36,4767.55,49,furniture/equipment,1,1,average,0.1129,97.3,good
+36,female,2,rent,moderate,moderate,2894.68,4,1464.44,29,furniture/equipment,0,0,average,0.0422,50.5,good
+35,male,2,free,moderate,moderate,2374.91,17,3283.09,62,furniture/equipment,0,0,good,0.1152,52.95,good
+71,female,3,rent,little,none,3775.37,1,4715.97,33,car,0,0,good,0.1041,142.91,good
+26,male,2,rent,little,none,2527.82,2,3243.15,62,furniture/equipment,0,2,good,0.1069,52.31,bad
+71,female,2,own,moderate,rich,3386.34,24,4796.76,55,furniture/equipment,0,1,poor,0.118,87.21,good
+71,male,2,free,none,none,3417.25,24,4555.6,57,furniture/equipment,1,0,good,0.1111,79.92,bad
+52,male,0,own,none,little,2454.78,31,2176.3,67,radio/TV,0,2,average,0.0739,32.48,good
+27,female,2,own,quite rich,little,2788.3,9,2151.3,58,radio/TV,0,0,average,0.0643,37.09,good
+27,male,2,rent,none,none,2006.73,6,992.13,26,furniture/equipment,0,0,good,0.0412,38.16,good
+34,female,2,own,little,none,2894.99,11,1457.0,39,radio/TV,0,0,good,0.0419,37.36,good
+51,male,1,own,moderate,rich,2220.25,10,659.85,36,vacation,4,4,good,0.0248,18.33,bad
+26,female,3,own,little,moderate,3113.01,7,1203.97,8,business,0,1,average,0.0322,150.5,good
+44,male,3,own,quite rich,rich,3776.62,17,6641.64,44,car,0,1,poor,0.1466,150.95,good
+24,male,0,rent,little,little,1073.64,0,1187.45,34,car,1,0,good,0.0922,34.93,bad
+49,male,2,own,quite rich,little,2780.04,26,4586.53,31,business,3,0,poor,0.1375,147.95,good
+19,male,2,rent,moderate,little,2835.02,0,550.74,11,radio/TV,2,1,good,0.0162,50.07,good
+59,male,2,own,little,little,2877.7,19,3604.68,38,education,2,0,good,0.1044,94.86,good
+21,female,3,rent,none,none,3182.77,1,5530.76,43,car,3,3,poor,0.1448,128.62,bad
+29,female,2,own,little,moderate,2663.1,9,2059.63,11,car,1,2,poor,0.0644,187.24,good
+28,female,3,free,little,rich,3782.42,2,3440.71,47,radio/TV,4,0,good,0.0758,73.21,good
+66,male,3,own,little,little,3685.68,16,2480.84,15,business,0,1,average,0.0561,165.39,good
+21,male,0,own,rich,little,1227.68,0,250.0,14,vacation,2,4,poor,0.017,17.86,good
+42,male,2,own,little,little,2645.78,8,533.13,31,domestic appliances,2,1,average,0.0168,17.2,good
+52,female,2,own,quite rich,none,2837.0,3,2408.72,30,furniture/equipment,3,1,average,0.0708,80.29,bad
+47,female,1,own,none,little,2797.26,17,6400.16,67,education,1,3,good,0.1907,95.52,good
+57,male,2,rent,rich,little,3701.75,35,1305.11,8,car,2,0,good,0.0294,163.14,good
+64,female,3,free,little,little,4015.4,19,3422.18,28,furniture/equipment,0,2,average,0.071,122.22,good
+40,male,0,rent,little,little,1912.18,20,1802.82,54,repairs,1,0,good,0.0786,33.39,good
+66,male,2,own,little,moderate,3116.92,40,1237.06,21,radio/TV,0,1,good,0.0331,58.91,good
+36,male,3,own,none,little,3018.36,1,3333.43,71,vacation,1,2,good,0.092,46.95,good
+75,male,2,rent,quite rich,none,3053.25,21,6621.8,55,car,1,1,good,0.1807,120.4,good
+47,female,2,rent,little,none,2720.95,15,8089.94,69,car,0,1,good,0.2478,117.25,bad
+60,female,3,own,little,none,3302.41,15,4977.0,69,furniture/equipment,0,1,good,0.1256,72.13,bad
+68,male,2,free,little,little,2794.74,34,894.61,11,domestic appliances,0,0,good,0.0267,81.33,good
+63,male,1,own,moderate,moderate,1828.71,16,698.42,35,radio/TV,1,0,good,0.0318,19.95,good
+67,female,1,rent,none,moderate,1860.22,2,3389.74,55,education,1,0,poor,0.1519,61.63,bad
+49,female,3,free,none,moderate,3700.7,17,250.0,4,car,1,1,average,0.0056,62.5,good
+20,female,2,rent,none,little,2322.43,0,3897.76,35,business,0,0,good,0.1399,111.36,bad
+46,male,2,own,little,none,2877.62,10,3253.66,51,furniture/equipment,2,0,good,0.0942,63.8,bad
+28,female,1,rent,none,little,1873.16,5,3463.73,58,car,1,2,good,0.1541,59.72,bad
+69,male,2,own,quite rich,little,3706.7,29,6133.92,32,business,0,0,average,0.1379,191.68,good
+31,female,3,rent,little,moderate,3318.43,3,10772.52,63,business,0,0,average,0.2705,170.99,bad
+31,male,2,own,moderate,little,2968.72,5,3779.51,50,furniture/equipment,1,0,average,0.1061,75.59,good
+32,female,3,rent,little,little,3396.12,1,1139.92,7,car,0,0,average,0.028,162.85,good
+55,male,2,free,little,little,2459.28,14,2026.62,23,car,0,1,good,0.0687,88.11,bad
+51,male,2,own,little,none,3043.27,19,3438.07,68,repairs,0,0,good,0.0941,50.56,good
+73,female,3,own,little,rich,3492.53,25,250.0,4,furniture/equipment,0,0,good,0.006,62.5,good
+42,female,2,rent,little,none,2737.16,7,1648.19,11,education,0,3,good,0.0502,149.84,good
+34,male,2,own,little,none,2364.2,1,3022.33,27,business,0,2,good,0.1065,111.94,good
+20,female,3,own,little,none,3458.69,1,8427.99,72,education,2,1,average,0.2031,117.06,bad
+18,female,2,own,rich,moderate,2130.18,0,4071.65,52,car,1,2,good,0.1593,78.3,bad
+39,male,2,own,little,little,2955.15,14,372.53,14,furniture/equipment,0,3,average,0.0105,26.61,good
+71,male,3,rent,little,moderate,3575.35,3,5941.68,31,business,1,0,good,0.1385,191.67,good
+48,male,1,own,none,little,2592.66,15,7280.11,68,car,1,1,good,0.234,107.06,bad
+69,female,2,own,little,none,2407.54,3,2380.95,19,car,0,1,average,0.0824,125.31,bad
+23,male,0,own,moderate,moderate,1256.21,2,1676.96,43,furniture/equipment,0,0,good,0.1112,39.0,good
+23,male,2,own,none,none,2739.45,3,2109.42,36,domestic appliances,0,0,good,0.0642,58.6,good
+66,female,1,own,moderate,none,3166.49,29,9279.93,56,business,1,0,good,0.2442,165.71,good
+24,female,2,rent,little,little,2181.53,4,4795.14,55,car,1,1,average,0.1832,87.18,bad
+21,female,1,own,none,none,1656.11,3,953.16,61,vacation,0,2,good,0.048,15.63,bad
+41,female,2,own,rich,none,3706.56,5,2094.85,12,car,1,2,poor,0.0471,174.57,good
+71,female,2,free,little,moderate,3354.42,34,4841.44,35,car,4,0,poor,0.1203,138.33,bad
+57,female,2,own,moderate,little,2263.15,13,1943.72,51,vacation,0,0,average,0.0716,38.11,bad
+23,female,2,rent,little,little,2446.11,2,2283.99,32,education,1,1,good,0.0778,71.37,bad
+66,male,2,own,rich,little,2430.89,32,2267.67,50,repairs,1,1,average,0.0777,45.35,good
+66,male,2,own,little,moderate,3009.32,13,5032.41,47,education,1,3,good,0.1394,107.07,good
+64,male,2,own,little,none,2958.42,3,2057.48,29,furniture/equipment,1,2,poor,0.058,70.95,bad
+70,female,3,rent,moderate,none,3705.92,29,267.14,10,radio/TV,1,3,good,0.006,26.71,good
+31,male,2,rent,little,little,2660.25,9,3191.4,70,radio/TV,0,2,good,0.1,45.59,good
+74,male,1,own,little,little,2798.28,23,3758.32,60,repairs,0,3,good,0.1119,62.64,good
+36,male,3,own,rich,rich,2737.42,2,1631.74,65,domestic appliances,2,1,average,0.0497,25.1,good
+64,male,2,own,little,little,2762.45,25,1255.04,24,radio/TV,0,0,poor,0.0379,52.29,good
+51,male,0,rent,moderate,none,1270.16,6,250.0,25,radio/TV,4,0,good,0.0164,10.0,good
+63,female,2,rent,moderate,little,2886.68,22,1361.98,26,radio/TV,0,0,good,0.0393,52.38,good
+54,female,1,rent,quite rich,moderate,2247.15,18,250.0,6,radio/TV,1,0,average,0.0093,41.67,good
+55,male,2,free,quite rich,none,2882.69,29,294.48,15,domestic appliances,1,0,average,0.0085,19.63,good
+53,male,2,own,little,little,3550.01,35,3098.76,25,car,0,3,average,0.0727,123.95,good
+63,male,1,rent,little,none,2022.77,7,2037.66,72,radio/TV,2,0,good,0.0839,28.3,bad
+60,female,3,own,none,moderate,3592.22,4,1467.07,18,repairs,0,3,average,0.034,81.5,good
+25,female,3,own,moderate,moderate,3470.14,4,2414.9,39,furniture/equipment,1,2,poor,0.058,61.92,good
+65,male,2,free,quite rich,little,3647.34,39,2037.01,41,radio/TV,1,1,good,0.0465,49.68,good
+49,female,2,own,little,rich,2218.79,5,700.66,28,radio/TV,2,1,good,0.0263,25.02,good
+36,male,2,rent,none,rich,2997.41,9,8832.83,67,car,1,0,good,0.2456,131.83,good
+47,male,3,rent,little,none,3484.2,12,1595.42,10,car,3,1,good,0.0382,159.54,good
+74,female,2,free,little,little,2866.69,13,7020.73,64,car,2,0,average,0.2041,109.7,bad
+67,male,1,own,quite rich,little,2941.89,27,6418.48,55,car,0,3,good,0.1818,116.7,good
+66,male,2,own,none,none,2648.2,12,3325.81,25,car,2,0,good,0.1047,133.03,good
+44,male,2,rent,moderate,little,3397.91,13,3060.71,56,radio/TV,3,0,good,0.0751,54.66,good
+63,female,1,rent,moderate,little,3255.57,34,4019.59,33,car,0,1,poor,0.1029,121.81,bad
+40,female,2,own,rich,rich,3063.47,8,3645.92,70,repairs,1,1,average,0.0992,52.08,good
+57,female,0,rent,none,little,856.78,0,250.0,6,car,0,1,good,0.0243,41.67,bad
+55,male,3,own,quite rich,moderate,3359.8,33,250.0,6,radio/TV,1,1,average,0.0062,41.67,good
+32,male,2,rent,moderate,little,3077.59,4,788.03,41,domestic appliances,0,0,good,0.0213,19.22,good
+33,female,0,free,moderate,none,1538.98,12,4002.19,68,car,1,1,average,0.2167,58.86,bad
+21,male,1,own,none,moderate,1714.18,3,875.66,8,furniture/equipment,0,0,average,0.0426,109.46,good
+26,female,2,own,little,none,3110.75,4,6053.49,57,education,1,0,good,0.1622,106.2,bad
+43,female,2,free,moderate,none,2348.45,2,3684.91,68,furniture/equipment,0,0,poor,0.1308,54.19,bad
+45,male,0,rent,little,little,1701.55,26,2626.97,37,car,1,0,good,0.1287,71.0,good
+27,female,2,free,little,moderate,2933.71,6,10590.5,63,business,1,0,average,0.3008,168.1,bad
+42,male,1,own,little,little,1760.24,10,5178.66,56,business,1,1,good,0.2452,92.48,bad
+53,male,2,free,little,none,3311.68,30,1306.89,18,radio/TV,0,0,average,0.0329,72.6,good
+31,male,2,own,none,little,3256.2,11,8004.34,62,car,0,0,good,0.2048,129.1,bad
+37,male,2,own,little,little,3048.89,15,6370.05,52,car,0,1,good,0.1741,122.5,bad
+39,female,2,own,little,none,3111.6,3,440.65,4,education,3,0,good,0.0118,110.16,good
+47,female,1,rent,quite rich,little,2746.76,18,1412.79,43,radio/TV,0,1,poor,0.0429,32.86,good
+39,female,0,free,rich,none,1352.71,6,2625.06,49,car,1,3,good,0.1617,53.57,bad
+60,female,1,rent,little,little,1157.14,3,1948.22,59,furniture/equipment,0,0,average,0.1403,33.02,bad
+36,male,2,rent,none,moderate,2362.98,6,2036.93,57,repairs,1,3,good,0.0718,35.74,good
+43,male,3,own,little,moderate,3617.17,2,5317.28,36,car,0,0,average,0.1225,147.7,good
+40,female,3,own,little,little,2807.41,2,3034.76,24,car,1,0,good,0.0901,126.45,bad
+28,female,2,own,quite rich,little,2660.66,7,329.84,17,radio/TV,0,1,average,0.0103,19.4,good
+57,male,2,own,little,little,3218.47,20,2127.86,10,business,0,2,poor,0.0551,212.79,good
+31,male,2,own,none,rich,3239.35,5,2296.7,48,radio/TV,0,2,good,0.0591,47.85,good
+35,male,2,rent,none,none,2473.74,3,1954.17,70,domestic appliances,0,0,good,0.0658,27.92,bad
+63,male,2,rent,little,none,3149.78,31,354.29,9,car,1,2,poor,0.0094,39.37,bad
+73,female,3,rent,quite rich,little,3931.64,26,2832.05,52,radio/TV,4,0,good,0.06,54.46,good
+56,male,3,own,moderate,none,3972.82,22,2697.86,44,radio/TV,1,0,good,0.0566,61.32,good
+71,female,2,own,little,none,2721.01,7,1293.36,15,radio/TV,3,0,good,0.0396,86.22,good
+67,female,2,own,little,none,3092.24,5,1525.9,18,furniture/equipment,1,4,average,0.0411,84.77,good
+45,female,3,own,quite rich,moderate,3095.3,3,2942.2,23,education,0,0,poor,0.0792,127.92,good
+62,male,2,own,little,little,2667.06,1,1499.98,51,radio/TV,0,2,average,0.0469,29.41,good
+37,male,3,own,quite rich,moderate,3930.82,19,4902.1,24,business,0,1,average,0.1039,204.25,good
+44,female,1,own,quite rich,moderate,1984.92,9,5432.4,61,car,0,1,good,0.2281,89.06,good
+49,female,3,rent,little,little,4118.9,21,2432.03,29,furniture/equipment,2,1,good,0.0492,83.86,good
+73,male,2,own,quite rich,rich,3652.14,40,971.95,11,radio/TV,1,2,good,0.0222,88.36,good
+67,female,1,own,little,moderate,3126.1,38,1022.75,10,furniture/equipment,1,0,good,0.0273,102.28,good
+46,male,2,own,moderate,moderate,2892.94,9,3771.87,31,car,1,0,good,0.1087,121.67,good
+55,female,0,own,none,moderate,1781.74,18,866.29,32,repairs,0,1,average,0.0405,27.07,good
+29,male,2,own,little,little,2503.66,5,1182.79,54,domestic appliances,1,0,good,0.0394,21.9,good
+64,male,3,own,little,little,3104.23,1,4730.13,37,education,0,0,good,0.127,127.84,good
+50,male,2,rent,none,little,3653.54,25,892.11,15,domestic appliances,0,0,good,0.0203,59.47,good
+48,male,3,own,none,none,3947.43,17,3037.61,18,car,0,0,good,0.0641,168.76,good
+62,male,1,free,little,little,1916.96,15,1758.21,43,furniture/equipment,0,0,good,0.0764,40.89,bad
+54,male,2,own,moderate,none,3163.3,20,1260.7,27,radio/TV,1,0,good,0.0332,46.69,good
+22,male,2,own,little,none,1844.18,3,1141.66,50,domestic appliances,0,3,good,0.0516,22.83,good
+34,female,0,own,little,rich,999.12,0,2893.38,67,car,0,0,good,0.2413,43.18,bad
+28,male,2,own,rich,moderate,3111.36,7,3851.06,28,car,3,4,average,0.1031,137.54,good
+60,female,2,own,rich,little,3431.2,35,7252.81,42,business,4,3,poor,0.1761,172.69,bad
+20,female,2,free,none,little,2691.27,2,6116.87,61,car,1,0,average,0.1894,100.28,bad
+29,male,2,own,little,little,1719.27,7,1658.42,18,business,1,1,average,0.0804,92.13,bad
+52,male,3,rent,moderate,rich,3237.71,3,4457.17,39,car,2,1,poor,0.1147,114.29,good
+58,female,2,own,moderate,moderate,3468.4,30,4422.81,25,business,0,1,good,0.1063,176.91,good
+47,female,3,own,little,little,4012.85,22,1996.7,47,domestic appliances,0,0,average,0.0415,42.48,good
+67,male,2,own,moderate,little,3436.82,20,4607.28,55,furniture/equipment,0,0,good,0.1117,83.77,good
+71,female,2,own,none,little,3101.41,23,2439.37,13,car,0,0,good,0.0655,187.64,good
+25,male,2,own,little,moderate,2642.02,4,948.28,16,car,4,1,good,0.0299,59.27,good
+73,male,2,free,moderate,rich,2233.76,4,1365.73,5,car,2,4,good,0.051,273.15,good
+53,female,2,rent,moderate,little,2753.42,9,356.5,4,car,4,1,average,0.0108,89.12,good
+54,male,2,free,quite rich,little,2883.45,29,610.09,7,furniture/equipment,1,1,good,0.0176,87.16,good
+23,female,1,own,none,little,1378.25,5,479.24,52,radio/TV,1,4,average,0.029,9.22,bad
+54,male,2,rent,none,little,2445.19,9,6988.54,66,car,2,1,poor,0.2382,105.89,bad
+60,female,2,own,none,rich,3528.04,16,4626.56,32,car,1,0,good,0.1093,144.58,good
+51,male,2,rent,little,moderate,3280.3,31,3649.35,64,repairs,1,2,good,0.0927,57.02,good
+22,male,3,free,none,little,3376.96,0,6671.24,54,car,0,0,good,0.1646,123.54,bad
+48,male,2,rent,little,little,2620.28,8,2284.05,59,radio/TV,1,0,good,0.0726,38.71,good
+72,male,3,free,little,little,2723.31,2,2522.65,55,radio/TV,0,1,poor,0.0772,45.87,good
+59,female,3,rent,moderate,none,3852.64,9,2579.86,17,car,1,3,average,0.0558,151.76,good
+25,male,3,own,little,little,2664.73,5,2334.99,40,repairs,0,0,average,0.073,58.37,bad
+73,male,3,rent,none,moderate,3455.82,14,6097.66,40,car,1,1,good,0.147,152.44,good
+73,male,1,own,moderate,moderate,2880.88,40,7003.38,48,business,0,0,average,0.2026,145.9,good
+27,male,2,free,none,none,2880.67,8,4536.55,58,furniture/equipment,0,0,average,0.1312,78.22,good
+64,female,1,rent,quite rich,moderate,2545.74,36,998.23,11,education,1,0,good,0.0327,90.75,good
+41,male,3,own,none,moderate,3081.71,17,3615.23,50,furniture/equipment,0,1,good,0.0978,72.3,bad
+52,female,2,own,little,little,2919.62,24,6272.98,61,education,3,2,good,0.179,102.84,good
+43,male,2,own,quite rich,moderate,2662.93,13,454.9,11,radio/TV,0,0,good,0.0142,41.35,good
+63,female,3,own,little,little,4029.42,40,1956.58,32,furniture/equipment,0,0,poor,0.0405,61.14,good
+75,male,1,own,moderate,moderate,2314.52,3,7824.1,65,business,0,0,average,0.2817,120.37,bad
+64,male,2,rent,moderate,none,2900.24,29,250.0,5,furniture/equipment,2,0,good,0.0072,50.0,good
+72,female,2,own,none,none,2830.34,5,1641.15,15,furniture/equipment,1,1,poor,0.0483,109.41,bad
+72,female,1,rent,moderate,little,2280.4,13,6128.3,59,car,0,1,good,0.2239,103.87,good
+23,female,2,own,quite rich,none,2961.16,1,2154.49,15,car,0,1,good,0.0606,143.63,good
+32,male,3,own,rich,little,3478.4,9,2542.4,52,radio/TV,1,0,poor,0.0609,48.89,good
+59,male,1,own,little,moderate,2976.9,32,7619.54,66,car,3,1,poor,0.2133,115.45,bad
+52,female,2,free,little,none,2589.72,2,1172.1,38,radio/TV,0,0,average,0.0377,30.84,good
+20,male,2,own,moderate,little,2777.04,1,4972.7,37,car,0,0,good,0.1492,134.4,bad
+23,female,2,own,little,rich,2098.97,1,1339.33,33,furniture/equipment,0,3,poor,0.0532,40.59,bad
+48,male,1,own,little,little,1026.6,2,620.76,29,business,0,2,average,0.0504,21.41,bad
+53,male,3,rent,none,little,3807.14,15,3077.06,30,furniture/equipment,1,3,average,0.0674,102.57,bad
+27,female,3,own,none,little,3575.91,5,8485.08,42,business,4,3,good,0.1977,202.03,bad
+27,female,1,rent,little,none,2116.43,2,6281.04,65,car,4,1,good,0.2473,96.63,bad
+25,male,2,rent,none,none,2491.27,3,7637.95,71,car,2,3,average,0.2555,107.58,bad
+50,male,2,rent,none,moderate,3896.4,31,13367.95,63,business,0,0,poor,0.2859,212.19,bad
+18,female,2,own,none,little,2439.04,0,1045.57,12,education,4,0,average,0.0357,87.13,bad
+51,male,2,own,quite rich,little,3022.31,11,3136.26,25,business,0,0,good,0.0865,125.45,good
+45,male,1,own,none,none,2783.12,27,8193.53,56,business,0,0,average,0.2453,146.31,bad
+45,male,1,own,none,moderate,3076.56,23,6870.92,41,business,1,0,good,0.1861,167.58,good
+57,female,3,rent,little,none,3539.04,14,4962.48,27,business,0,0,good,0.1169,183.8,good
+48,female,2,own,little,moderate,2796.38,17,3597.91,25,business,2,1,good,0.1072,143.92,good
+60,male,3,own,rich,little,3500.65,29,1819.76,12,business,4,2,good,0.0433,151.65,good
+62,male,2,own,quite rich,little,3618.33,19,3440.76,26,car,2,1,average,0.0792,132.34,good
+71,male,3,own,little,little,3847.49,16,5919.75,33,car,2,0,good,0.1282,179.39,good
+64,male,1,own,little,none,2383.57,13,1862.07,32,radio/TV,0,1,good,0.0651,58.19,good
+48,male,1,rent,little,little,3090.85,4,2955.85,41,furniture/equipment,0,0,poor,0.0797,72.09,good
+46,male,3,own,none,moderate,3413.77,0,2741.21,22,education,2,0,average,0.0669,124.6,good
+31,female,3,free,little,none,2944.19,4,380.51,18,radio/TV,1,0,good,0.0108,21.14,good
+52,male,2,rent,none,little,3206.43,27,8767.43,65,car,3,0,good,0.2279,134.88,bad
+26,male,2,own,none,little,2308.83,2,3208.94,31,education,0,0,average,0.1158,103.51,bad
+72,male,2,own,little,none,2636.45,7,1649.06,21,car,0,2,good,0.0521,78.53,good
+67,female,2,own,none,little,2784.09,13,4765.38,47,education,0,2,good,0.1426,101.39,good
+24,female,1,own,none,none,1794.54,4,3219.97,41,car,1,1,good,0.1495,78.54,bad
+63,male,3,own,little,little,3012.35,8,2100.04,43,radio/TV,2,0,good,0.0581,48.84,bad
+24,female,2,free,little,none,3182.38,1,1538.91,19,radio/TV,3,2,average,0.0403,81.0,bad
+59,male,2,rent,none,little,2804.6,4,2982.13,53,radio/TV,0,1,good,0.0886,56.27,bad
+23,male,1,own,none,little,1846.08,1,1188.09,17,car,1,0,good,0.0536,69.89,good
+46,female,0,own,little,little,1615.17,6,4292.39,61,car,0,1,good,0.2215,70.37,bad
+56,male,2,own,little,little,3564.87,32,1749.29,33,radio/TV,0,1,good,0.0409,53.01,good
+60,male,2,free,quite rich,rich,3621.49,37,1437.18,32,radio/TV,0,0,good,0.0331,44.91,good
+42,male,2,own,quite rich,little,3064.75,9,3326.31,30,education,1,0,poor,0.0904,110.88,bad
+71,male,1,rent,little,moderate,2021.88,3,2993.08,33,car,1,1,good,0.1234,90.7,bad
+62,female,3,rent,little,little,3609.58,3,2666.12,49,radio/TV,0,0,good,0.0616,54.41,good
+30,male,2,own,moderate,little,2963.59,4,4246.03,38,car,1,0,good,0.1194,111.74,good
+56,male,3,own,moderate,none,3806.95,18,614.04,12,repairs,2,0,average,0.0134,51.17,good
+60,male,1,own,little,little,2347.86,21,3351.17,43,education,0,3,good,0.1189,77.93,good
+37,male,2,free,none,moderate,3285.64,6,717.17,22,vacation,0,0,poor,0.0182,32.6,good
+60,male,2,own,little,moderate,2782.73,14,482.53,11,domestic appliances,1,0,average,0.0145,43.87,bad
+70,male,2,rent,little,little,3011.96,11,2846.63,61,radio/TV,2,0,good,0.0788,46.67,good
+65,female,2,rent,none,moderate,3269.87,21,4683.51,25,business,2,2,average,0.1194,187.34,good
+62,male,1,rent,little,none,2386.65,28,1223.19,45,radio/TV,0,1,good,0.0427,27.18,good
+54,male,2,own,little,none,2342.26,1,250.0,15,domestic appliances,1,3,poor,0.0089,16.67,good
+33,male,2,own,little,moderate,2651.15,7,1665.72,27,radio/TV,3,0,poor,0.0524,61.69,bad
+64,male,2,rent,little,none,3077.72,26,1280.7,30,radio/TV,0,0,good,0.0347,42.69,good
+39,male,1,own,moderate,none,1739.65,14,275.9,13,domestic appliances,0,1,average,0.0132,21.22,bad
+48,female,2,rent,little,rich,2796.98,17,6880.45,71,education,4,0,good,0.205,96.91,good
+36,male,2,own,little,rich,2918.18,9,1517.13,25,vacation,0,2,good,0.0433,60.69,good
+36,female,2,own,none,little,3343.08,12,6475.12,44,car,1,2,average,0.1614,147.16,bad
+27,female,2,rent,quite rich,little,2869.04,3,5482.84,43,car,2,1,poor,0.1593,127.51,bad
+73,male,2,own,little,moderate,2265.16,23,1100.74,33,radio/TV,0,4,good,0.0405,33.36,good
+26,male,2,own,none,none,2874.46,2,1495.47,44,radio/TV,1,1,average,0.0434,33.99,good
+23,male,2,own,little,little,2454.65,2,2309.36,43,radio/TV,1,0,average,0.0784,53.71,bad
+72,female,2,own,quite rich,little,2883.58,5,720.99,9,radio/TV,2,1,good,0.0208,80.11,good
+50,male,3,rent,moderate,rich,3570.05,11,6064.92,50,education,3,0,average,0.1416,121.3,good
+43,female,2,own,quite rich,rich,2607.56,3,1740.76,11,car,2,2,average,0.0556,158.25,good
+60,female,3,own,moderate,moderate,3489.22,9,6014.01,34,business,0,0,average,0.1436,176.88,good
+40,female,3,own,little,none,3517.15,9,4134.19,29,education,2,0,poor,0.098,142.56,good
+25,male,1,free,little,little,2470.54,4,2551.28,34,furniture/equipment,3,1,good,0.0861,75.04,good
+60,female,2,own,little,little,3543.12,38,250.0,8,radio/TV,1,0,good,0.0059,31.25,good
+28,male,2,free,moderate,moderate,2979.94,0,6560.11,52,car,1,0,good,0.1835,126.16,good
+50,male,3,free,moderate,none,4353.97,29,6002.06,32,car,0,1,good,0.1149,187.56,good
+73,male,2,own,none,none,3158.47,13,2372.52,8,business,2,0,good,0.0626,296.56,good
+72,female,1,rent,quite rich,moderate,1999.68,29,250.0,4,radio/TV,0,1,poor,0.0104,62.5,good
+38,male,2,rent,little,little,3340.82,14,6166.11,41,car,0,0,good,0.1538,150.39,good
+63,female,1,own,none,moderate,2714.73,39,1946.84,49,vacation,3,0,average,0.0598,39.73,good
+53,male,2,own,little,none,2925.5,3,5800.59,41,business,3,0,good,0.1652,141.48,good
+45,female,2,rent,quite rich,moderate,2934.61,27,5395.71,53,education,4,2,good,0.1532,101.81,good
+26,male,2,rent,quite rich,none,2185.22,0,1785.58,56,radio/TV,1,3,average,0.0681,31.89,bad
+39,male,3,rent,little,none,4466.74,19,4579.19,64,repairs,0,0,average,0.0854,71.55,good
+55,female,2,free,rich,little,2865.06,24,8431.16,71,car,1,3,good,0.2452,118.75,good
+75,male,2,own,quite rich,little,3476.14,19,9609.38,65,car,0,1,poor,0.2304,147.84,bad
+18,male,2,rent,quite rich,little,2641.45,0,1882.66,58,domestic appliances,2,1,good,0.0594,32.46,good
+59,male,3,free,quite rich,none,3552.96,16,1151.15,33,domestic appliances,1,1,good,0.027,34.88,good
+67,male,3,own,little,none,3359.31,3,2919.2,38,furniture/equipment,0,1,good,0.0724,76.82,good
+73,male,0,own,moderate,moderate,1544.62,32,2899.49,46,car,0,2,average,0.1564,63.03,good
+42,male,2,own,little,none,3045.19,18,753.06,15,radio/TV,0,1,good,0.0206,50.2,good
+24,male,1,rent,moderate,moderate,1671.04,6,4830.41,50,business,2,1,average,0.2409,96.61,good
+33,female,3,own,none,moderate,3436.59,11,5401.12,44,education,1,0,good,0.131,122.75,good
+67,male,2,rent,moderate,none,3898.85,39,1656.39,39,radio/TV,0,0,good,0.0354,42.47,good
+68,male,2,own,rich,moderate,3588.97,36,8714.6,61,car,0,1,poor,0.2023,142.86,bad
+54,male,1,own,little,little,1756.24,15,4768.74,51,business,0,0,good,0.2263,93.5,good
+25,male,2,rent,rich,little,3023.02,5,11241.83,68,business,0,0,good,0.3099,165.32,bad
+25,female,2,own,little,none,2647.52,2,3260.42,71,radio/TV,3,0,good,0.1026,45.92,bad
+45,female,1,free,little,moderate,2260.24,22,3874.21,60,furniture/equipment,1,0,good,0.1428,64.57,good
+52,female,1,own,none,little,2686.34,21,992.46,24,vacation,0,1,good,0.0308,41.35,good
+19,male,3,free,moderate,little,3241.48,0,2555.45,17,car,2,1,good,0.0657,150.32,good
+57,male,2,own,little,rich,2817.02,25,995.75,24,furniture/equipment,0,0,average,0.0295,41.49,good
+49,male,1,free,little,little,2746.73,8,3568.74,53,furniture/equipment,0,0,good,0.1083,67.33,bad
+18,male,2,rent,moderate,rich,2593.95,0,3383.0,63,furniture/equipment,1,0,good,0.1087,53.7,good
+23,male,3,own,little,moderate,3346.52,3,2473.72,64,domestic appliances,0,0,average,0.0616,38.65,good
+44,female,2,own,little,rich,2758.21,12,4494.21,51,furniture/equipment,1,1,good,0.1358,88.12,good
+59,male,2,own,quite rich,rich,3337.99,13,4015.74,50,furniture/equipment,2,1,average,0.1003,80.31,good
+65,male,2,rent,moderate,rich,3391.29,39,9209.43,69,car,3,1,average,0.2263,133.47,bad
+43,male,2,rent,moderate,none,2084.26,1,5743.72,51,business,0,1,good,0.2296,112.62,bad
+35,male,0,own,moderate,moderate,1287.46,13,476.6,13,car,1,3,good,0.0308,36.66,good
+74,male,2,own,rich,moderate,3264.37,8,4680.92,38,car,0,2,good,0.1195,123.18,good
+44,male,0,rent,little,moderate,1641.25,6,1913.54,28,furniture/equipment,1,1,good,0.0972,68.34,bad
+36,female,0,own,little,little,1160.74,2,1699.67,47,furniture/equipment,0,1,good,0.122,36.16,bad
+43,male,2,rent,none,rich,3130.64,2,2284.01,47,vacation,1,0,average,0.0608,48.6,bad
+18,male,3,own,little,none,3561.78,0,4331.11,24,business,0,3,average,0.1013,180.46,bad
+35,male,2,rent,moderate,little,2556.69,2,2023.3,24,education,3,0,good,0.0659,84.3,bad
+47,female,2,free,moderate,little,3141.93,24,1075.19,10,radio/TV,2,0,poor,0.0285,107.52,good
+71,male,2,own,little,none,3640.26,37,2161.18,24,furniture/equipment,0,4,good,0.0495,90.05,good
+60,female,2,own,none,moderate,2883.84,23,1332.29,61,vacation,2,1,poor,0.0385,21.84,good
+63,female,2,own,moderate,none,2601.58,0,2827.42,49,radio/TV,0,0,average,0.0906,57.7,good
+49,male,2,own,rich,moderate,3382.98,27,8243.12,69,education,1,0,good,0.2031,119.47,good
+24,female,2,own,little,moderate,2109.56,4,3435.29,67,furniture/equipment,0,0,good,0.1357,51.27,good
+40,male,2,free,little,little,2808.74,11,7660.16,63,car,0,1,good,0.2273,121.59,bad
+75,female,3,rent,little,moderate,4143.93,38,1733.23,16,furniture/equipment,1,0,poor,0.0349,108.33,good
+20,male,3,own,little,none,3684.82,1,4361.28,27,car,1,3,good,0.0986,161.53,good
+68,female,1,rent,little,moderate,1604.43,14,289.11,7,car,1,3,poor,0.015,41.3,bad
+57,male,2,own,little,rich,3241.47,31,831.68,10,car,1,1,good,0.0214,83.17,good
+34,male,1,rent,moderate,none,1931.39,8,1610.53,19,car,0,1,good,0.0695,84.76,good
+63,male,2,own,little,moderate,3661.02,29,1800.61,23,radio/TV,0,0,average,0.041,78.29,good
+66,female,2,rent,little,little,3284.76,28,250.0,5,domestic appliances,1,0,good,0.0063,50.0,good
+20,male,1,free,none,little,2578.63,2,2040.3,62,radio/TV,1,1,good,0.0659,32.91,bad
+24,male,2,rent,quite rich,moderate,2881.77,2,4522.89,40,education,0,0,poor,0.1308,113.07,good
+56,female,2,rent,little,little,2506.42,2,2682.78,49,furniture/equipment,0,0,good,0.0892,54.75,good
+75,female,3,own,little,little,3858.88,19,7556.75,49,car,1,0,poor,0.1632,154.22,bad
+19,male,0,rent,none,little,1101.08,1,2998.0,70,car,1,0,poor,0.2269,42.83,bad
+56,male,1,own,moderate,little,2975.79,31,703.08,14,repairs,2,0,good,0.0197,50.22,good
+25,male,2,rent,quite rich,moderate,2183.73,2,746.29,27,furniture/equipment,0,1,good,0.0285,27.64,good
+55,female,1,own,none,none,2311.71,28,795.64,25,repairs,1,2,good,0.0287,31.83,good
+54,male,2,own,none,little,3509.49,30,2241.71,42,radio/TV,1,1,average,0.0532,53.37,good
+23,female,3,own,none,none,3829.01,4,8130.22,40,business,0,2,poor,0.1769,203.26,bad
+57,male,1,own,moderate,moderate,1929.31,32,4379.7,58,education,0,0,poor,0.1892,75.51,good
+70,male,1,rent,quite rich,little,3381.06,40,2806.66,42,vacation,0,2,poor,0.0692,66.83,good
+68,male,2,rent,little,little,3225.95,27,3239.52,20,car,2,1,good,0.0837,161.98,good
+19,male,2,free,little,little,1940.64,0,1792.23,42,repairs,0,0,good,0.077,42.67,good
+32,female,2,own,moderate,little,1699.4,6,1675.31,70,radio/TV,1,3,good,0.0822,23.93,bad
+31,male,2,free,moderate,rich,2314.71,10,3234.41,43,education,1,0,poor,0.1164,75.22,good
+44,male,3,own,little,little,3443.1,6,3542.07,44,furniture/equipment,0,0,good,0.0857,80.5,good
+26,female,1,own,none,little,2001.94,5,981.62,16,furniture/equipment,2,0,good,0.0409,61.35,bad
+67,female,2,rent,little,moderate,3396.62,23,526.91,4,radio/TV,1,0,good,0.0129,131.73,good
+63,female,2,own,moderate,little,3082.68,27,2191.32,18,education,0,0,good,0.0592,121.74,good
+64,male,3,own,moderate,little,3337.19,17,632.87,5,car,2,1,good,0.0158,126.57,good
+29,male,2,own,moderate,little,2655.42,8,2483.34,35,furniture/equipment,1,2,good,0.0779,70.95,good
+18,female,2,own,quite rich,none,2611.76,0,4404.58,64,furniture/equipment,0,0,poor,0.1405,68.82,bad
+70,male,1,rent,little,moderate,2030.77,2,3976.99,34,business,1,1,average,0.1632,116.97,bad
+34,male,1,own,little,moderate,1923.79,12,1333.85,48,radio/TV,1,0,good,0.0578,27.79,good
+56,female,1,own,none,rich,2990.51,31,9557.57,63,business,0,2,average,0.2663,151.71,good
+70,male,2,own,quite rich,moderate,3282.51,36,3946.12,56,furniture/equipment,4,0,good,0.1002,70.47,good
+20,male,2,own,moderate,little,2345.6,2,2354.58,48,furniture/equipment,1,0,average,0.0837,49.05,good
+18,female,2,rent,little,little,2410.16,0,7441.77,58,business,1,1,good,0.2573,128.31,bad
+18,female,1,free,none,moderate,2276.19,0,2956.42,23,business,0,1,average,0.1082,128.54,good
+27,male,3,rent,moderate,rich,3328.52,3,3278.63,33,education,0,2,good,0.0821,99.35,good
+20,male,3,free,moderate,moderate,3056.92,0,2009.57,31,furniture/equipment,0,1,good,0.0548,64.82,good
+65,male,1,own,moderate,little,2874.14,26,7021.6,59,car,1,2,average,0.2036,119.01,bad
+53,male,0,rent,little,moderate,2024.96,3,3042.06,32,business,1,0,average,0.1252,95.06,bad
+74,female,1,own,quite rich,moderate,2248.39,11,6416.59,68,car,2,0,average,0.2378,94.36,bad
+64,female,3,own,moderate,rich,4431.84,28,2772.5,16,car,0,0,good,0.0521,173.28,good
+73,male,2,rent,moderate,moderate,3562.63,24,1581.01,15,education,1,0,good,0.037,105.4,good
+31,male,2,own,moderate,little,2588.03,8,2021.61,53,radio/TV,2,0,average,0.0651,38.14,good
+34,female,2,free,quite rich,little,2909.32,12,3958.42,56,furniture/equipment,2,1,good,0.1134,70.69,bad
+67,male,3,rent,quite rich,little,3001.11,6,1848.9,50,vacation,2,0,good,0.0513,36.98,good
+32,male,2,free,moderate,little,2803.27,11,2764.63,25,car,2,1,good,0.0822,110.59,good
+21,male,2,own,little,rich,2430.83,2,584.11,4,car,0,1,good,0.02,146.03,good
+56,female,3,own,little,little,3558.99,16,3473.62,26,car,1,1,good,0.0813,133.6,good
+64,male,1,rent,quite rich,little,2112.54,19,2442.33,36,car,3,1,good,0.0963,67.84,good
+74,female,3,own,moderate,little,3699.52,20,5600.56,32,business,1,0,average,0.1262,175.02,good
+71,male,1,own,none,moderate,2636.28,22,6014.86,67,education,0,0,average,0.1901,89.77,bad
+24,female,2,rent,none,little,2608.18,2,3306.66,63,furniture/equipment,4,1,average,0.1057,52.49,bad
+62,male,3,free,quite rich,none,2872.47,9,6546.59,57,car,0,1,average,0.1899,114.85,bad
+67,male,2,rent,quite rich,moderate,2488.86,6,956.34,5,furniture/equipment,0,0,good,0.032,191.27,good
+58,male,2,own,rich,little,2393.21,13,621.23,12,car,0,0,poor,0.0216,51.77,good
+65,male,2,own,little,little,2935.42,10,4972.57,33,business,1,1,average,0.1412,150.68,good
+66,male,2,rent,moderate,none,3301.16,21,4396.17,46,furniture/equipment,0,1,good,0.111,95.57,good
+43,male,2,own,quite rich,little,3264.79,23,6828.86,50,car,1,0,good,0.1743,136.58,good
+20,male,2,own,little,moderate,2324.41,0,1805.42,24,education,3,0,average,0.0647,75.23,good
+44,male,2,own,none,moderate,2886.4,8,1048.51,11,education,1,2,average,0.0303,95.32,good
+29,female,2,own,rich,none,2435.46,0,1095.19,26,radio/TV,1,0,average,0.0375,42.12,good
+24,male,2,own,none,rich,2351.62,6,3860.83,58,furniture/equipment,2,2,average,0.1368,66.57,bad
+25,female,2,own,moderate,moderate,2984.68,5,4801.92,72,furniture/equipment,2,0,poor,0.1341,66.69,bad
+58,female,2,rent,moderate,little,3111.31,9,8336.03,68,car,0,1,poor,0.2233,122.59,bad
+47,male,1,own,moderate,none,2532.11,12,3997.83,44,car,0,0,average,0.1316,90.86,good
+49,female,3,rent,little,little,3662.08,23,1963.83,10,business,1,0,poor,0.0447,196.38,good
+61,female,2,own,moderate,moderate,3987.78,39,4322.76,70,repairs,2,3,poor,0.0903,61.75,good
+49,female,1,free,little,little,2177.25,18,525.72,14,furniture/equipment,1,1,good,0.0201,37.55,good
+54,male,2,own,quite rich,little,3078.73,10,1216.94,22,furniture/equipment,0,3,average,0.0329,55.32,good
+22,male,3,own,little,moderate,3196.18,3,5724.65,71,furniture/equipment,1,0,good,0.1493,80.63,bad
+67,male,2,own,moderate,moderate,3221.61,28,1581.95,38,radio/TV,1,2,good,0.0409,41.63,good
+44,male,1,own,moderate,moderate,1477.59,17,1184.47,17,car,1,3,good,0.0668,69.67,good
+27,female,0,own,little,moderate,1094.33,0,250.0,38,radio/TV,2,1,good,0.019,6.58,good
+65,female,0,rent,little,none,1931.88,28,255.45,9,domestic appliances,2,0,good,0.011,28.38,good
+60,male,2,free,moderate,moderate,2456.48,0,1668.16,25,education,1,1,good,0.0566,66.73,good
+21,female,3,own,none,little,3989.67,3,4647.27,69,repairs,1,1,good,0.0971,67.35,good
+29,male,0,own,little,none,1043.14,10,1906.76,24,car,1,3,average,0.1523,79.45,bad
+18,female,2,rent,little,rich,2402.75,0,4017.04,65,furniture/equipment,1,0,poor,0.1393,61.8,bad
+33,male,1,rent,rich,none,1808.29,9,1678.57,41,furniture/equipment,1,0,poor,0.0774,40.94,bad
+23,female,2,own,little,none,2477.68,3,6237.0,49,car,1,0,good,0.2098,127.29,bad
+59,female,2,rent,little,moderate,3010.99,2,6027.27,52,car,1,1,good,0.1668,115.91,bad
+48,male,2,own,rich,little,3792.31,27,6040.78,42,education,1,4,poor,0.1327,143.83,good
+74,male,0,rent,little,none,1229.72,11,250.0,6,business,0,0,good,0.0169,41.67,good
+61,female,2,own,little,little,2596.95,10,3962.33,67,furniture/equipment,1,1,poor,0.1271,59.14,bad
+53,male,3,own,little,moderate,3520.0,25,4635.28,36,car,1,3,average,0.1097,128.76,good
+47,male,2,own,little,moderate,3757.2,28,4398.64,49,furniture/equipment,0,0,good,0.0976,89.77,good
+21,female,1,rent,little,none,2317.35,1,3996.64,42,car,0,0,good,0.1437,95.16,good
+22,male,1,own,moderate,little,1912.91,2,3704.35,49,car,0,1,good,0.1614,75.6,good
+53,male,2,rent,none,moderate,2586.37,19,2126.58,28,furniture/equipment,3,1,good,0.0685,75.95,good
+18,male,2,rent,moderate,none,2142.67,0,1710.49,62,radio/TV,2,0,good,0.0665,27.59,bad
+20,male,3,rent,little,none,3359.72,0,1061.66,19,vacation,1,2,average,0.0263,55.88,good
+30,female,2,own,little,none,2967.27,7,2448.58,49,radio/TV,0,1,average,0.0688,49.97,good
+69,male,3,own,none,little,3551.85,39,5643.17,43,car,1,3,good,0.1324,131.24,good
+44,male,3,own,little,none,3437.54,10,5034.55,38,car,1,2,good,0.122,132.49,good
+59,male,2,rent,moderate,moderate,3941.4,31,1056.16,5,business,4,2,good,0.0223,211.23,good
+41,female,2,free,little,rich,2973.87,18,3895.05,30,car,0,1,good,0.1091,129.84,good
+28,male,2,own,none,none,3346.37,9,1525.0,7,car,0,0,average,0.038,217.86,good
+39,female,2,free,little,moderate,3202.17,15,1688.18,38,radio/TV,1,1,average,0.0439,44.43,good
+23,female,3,own,quite rich,none,3045.5,5,6215.67,51,car,0,0,average,0.1701,121.88,good
+62,female,2,own,little,none,3222.57,29,2658.69,40,furniture/equipment,1,1,good,0.0688,66.47,good
+28,female,3,own,moderate,moderate,3504.96,10,4711.81,56,furniture/equipment,2,0,good,0.112,84.14,good
+39,female,2,rent,little,little,2641.62,15,2901.41,28,car,0,1,average,0.0915,103.62,good
+74,female,2,own,little,rich,3110.55,34,2612.12,25,education,0,0,average,0.07,104.48,good
+52,male,2,own,moderate,little,3902.37,31,1897.37,34,radio/TV,1,0,average,0.0405,55.8,good
+44,female,1,rent,little,none,2207.92,26,1199.5,19,furniture/equipment,2,0,good,0.0453,63.13,good
+49,male,2,own,none,little,3452.45,19,8092.04,59,car,1,1,poor,0.1953,137.15,bad
+63,male,2,own,rich,none,3172.23,29,4058.24,59,furniture/equipment,0,2,good,0.1066,68.78,good
+32,female,1,own,none,moderate,2241.03,14,1218.5,32,radio/TV,1,0,good,0.0453,38.08,good
+54,female,3,own,little,moderate,3846.65,14,3995.51,58,furniture/equipment,1,2,average,0.0866,68.89,good
+68,female,1,own,little,little,1790.5,4,250.0,5,radio/TV,2,2,good,0.0116,50.0,good
+51,male,1,own,little,little,2848.77,30,250.0,14,vacation,1,0,average,0.0073,17.86,good
+43,male,2,rent,moderate,moderate,2283.75,16,2626.13,23,car,0,1,good,0.0958,114.18,good
+26,male,1,own,none,moderate,2128.9,3,568.74,30,domestic appliances,2,0,good,0.0223,18.96,bad
+32,male,3,rent,rich,none,2686.01,10,371.11,19,domestic appliances,1,0,good,0.0115,19.53,good
+72,male,2,own,moderate,none,2545.6,1,1428.36,39,radio/TV,0,1,average,0.0468,36.62,good
+49,male,1,own,rich,none,2573.99,15,1939.02,58,radio/TV,1,0,average,0.0628,33.43,good
+35,male,2,own,quite rich,little,2917.8,4,1328.23,35,radio/TV,3,2,good,0.0379,37.95,bad
+42,female,2,own,quite rich,little,2320.56,7,1223.3,35,vacation,1,3,good,0.0439,34.95,good
+51,male,2,own,moderate,none,2990.62,32,389.43,8,furniture/equipment,0,2,good,0.0109,48.68,good
+49,female,3,own,little,little,3483.96,17,1698.04,23,furniture/equipment,1,1,good,0.0406,73.83,good
+58,female,2,free,little,little,2790.18,5,6317.95,59,car,0,1,average,0.1887,107.08,good
+32,male,2,rent,moderate,none,2013.82,5,3697.02,59,education,1,4,good,0.153,62.66,bad
+55,male,2,own,little,rich,2820.37,9,1291.07,11,car,1,0,good,0.0381,117.37,good
+43,male,2,own,moderate,little,3284.0,23,793.12,5,car,0,0,good,0.0201,158.62,good
+72,female,3,own,none,little,3475.94,11,8086.72,61,car,0,1,average,0.1939,132.57,bad
+27,male,2,rent,quite rich,little,2858.86,3,971.04,16,radio/TV,3,0,average,0.0283,60.69,good
+26,male,2,own,little,little,2753.3,3,1686.86,43,domestic appliances,0,0,average,0.0511,39.23,good
+44,female,2,own,rich,moderate,2510.42,4,5749.62,61,education,2,0,average,0.1909,94.26,good
+47,female,2,own,none,little,2497.33,23,6034.47,58,car,1,1,poor,0.2014,104.04,bad
+58,male,3,own,none,little,3921.69,23,2599.68,41,radio/TV,1,0,good,0.0552,63.41,good
+41,male,1,own,quite rich,rich,1816.42,10,2717.68,29,education,0,0,poor,0.1247,93.71,bad
+70,male,1,free,quite rich,moderate,2097.58,16,2669.17,57,furniture/equipment,0,0,average,0.106,46.83,bad
+45,male,2,free,moderate,moderate,3217.69,18,6282.56,51,car,0,0,good,0.1627,123.19,good
+25,male,2,own,rich,little,3096.07,0,2140.59,61,radio/TV,1,2,average,0.0576,35.09,good
+24,male,2,own,little,none,2736.68,6,3192.65,39,furniture/equipment,4,0,average,0.0972,81.86,bad
+74,female,0,own,quite rich,moderate,1968.92,23,2660.03,68,vacation,2,1,average,0.1126,39.12,bad
+25,male,2,own,little,little,2119.43,1,5972.55,57,business,0,2,good,0.2348,104.78,bad
+72,female,2,own,little,moderate,3235.93,22,766.14,8,car,0,0,good,0.0197,95.77,good
+34,male,2,own,little,moderate,2929.03,14,3560.98,24,business,0,2,poor,0.1013,148.37,good
+23,female,2,rent,none,little,3055.23,1,7850.26,59,car,4,1,good,0.2141,133.06,bad
+35,female,2,free,little,little,2635.84,9,250.0,12,domestic appliances,0,1,good,0.0079,20.83,good
+53,female,2,rent,moderate,little,3040.43,21,1519.01,52,radio/TV,0,0,good,0.0416,29.21,good
+42,female,3,rent,none,little,4170.59,20,5465.08,27,car,1,0,good,0.1092,202.41,good
+63,male,2,own,rich,moderate,3142.79,23,949.93,18,radio/TV,1,4,average,0.0252,52.77,good
+53,male,2,own,little,moderate,2861.91,26,4973.08,41,car,0,2,average,0.1448,121.29,bad
+41,male,2,own,none,little,3943.07,18,10866.55,68,car,1,3,poor,0.2297,159.8,bad
+54,male,1,rent,moderate,moderate,2322.49,32,3708.76,65,furniture/equipment,0,3,good,0.1331,57.06,bad
+74,female,2,own,little,little,2927.35,14,2570.49,31,education,0,0,good,0.0732,82.92,good
+41,male,2,rent,none,moderate,3121.34,16,250.0,4,education,0,2,good,0.0067,62.5,good
+26,female,3,own,moderate,little,3443.67,2,3306.38,65,radio/TV,0,1,good,0.08,50.87,good
+41,male,2,own,none,moderate,3033.59,20,7143.3,65,car,4,2,average,0.1962,109.9,good
+66,male,1,own,none,moderate,2810.33,39,2829.84,45,furniture/equipment,1,0,good,0.0839,62.89,good
+30,male,2,free,moderate,little,2592.77,3,1631.46,47,radio/TV,2,0,good,0.0524,34.71,good
+73,female,1,own,none,little,2084.42,23,3283.48,40,car,0,2,poor,0.1313,82.09,bad
+52,female,2,own,quite rich,moderate,4052.58,28,250.0,4,domestic appliances,1,2,average,0.0051,62.5,good
+52,male,3,own,moderate,little,3223.0,0,306.67,15,vacation,3,1,good,0.0079,20.44,good
+36,male,2,rent,none,moderate,3133.93,13,934.78,13,car,0,0,average,0.0249,71.91,good
+71,female,2,free,little,rich,3307.87,33,7814.85,67,education,4,0,good,0.1969,116.64,bad
+20,male,2,own,none,moderate,2525.83,2,292.5,7,furniture/equipment,1,3,poor,0.0097,41.79,bad
+35,female,2,free,moderate,little,2515.59,3,3764.12,42,car,1,0,average,0.1247,89.62,bad
+42,male,3,own,none,little,3207.55,18,2195.46,29,furniture/equipment,0,0,good,0.057,75.71,good
+45,male,2,rent,rich,rich,3093.78,22,387.34,4,car,1,1,good,0.0104,96.84,good
+45,male,2,own,little,little,2457.55,0,6539.04,67,car,1,0,good,0.2217,97.6,bad
+26,male,2,own,moderate,none,3160.03,6,250.0,5,vacation,3,1,average,0.0066,50.0,good
+31,male,1,rent,none,none,1681.15,8,2744.4,63,furniture/equipment,3,0,good,0.136,43.56,good
+23,male,1,own,little,moderate,1823.0,5,3749.81,57,car,0,2,average,0.1714,65.79,bad
+51,female,1,own,little,little,1610.55,1,1387.56,58,radio/TV,3,3,good,0.0718,23.92,bad
+38,male,2,rent,little,little,3604.89,20,622.98,15,repairs,2,3,good,0.0144,41.53,good
+50,male,3,free,rich,little,3445.71,18,3060.51,64,radio/TV,1,1,good,0.074,47.82,good
+52,male,2,own,none,moderate,3021.8,9,2047.36,45,domestic appliances,0,0,good,0.0565,45.5,good
+58,male,2,rent,none,little,3314.56,15,1411.41,31,domestic appliances,0,1,good,0.0355,45.53,good
+49,male,1,rent,little,moderate,2448.86,24,2237.64,50,radio/TV,0,2,average,0.0761,44.75,good
+55,male,2,own,little,moderate,3043.12,37,4445.78,27,business,0,1,poor,0.1217,164.66,good
+52,female,3,free,quite rich,rich,3097.55,11,3898.75,23,business,4,1,good,0.1049,169.51,good
+55,male,2,own,quite rich,moderate,3825.92,37,2367.41,23,education,0,1,average,0.0516,102.93,good
+53,female,2,rent,quite rich,little,2708.79,22,1571.63,43,radio/TV,1,1,good,0.0483,36.55,good
+36,male,3,own,none,moderate,3512.21,3,6363.72,45,car,1,1,average,0.151,141.42,good
+32,female,1,own,little,none,2140.02,8,2237.15,20,car,1,0,good,0.0871,111.86,bad
+63,male,2,own,moderate,rich,3532.0,32,1445.77,20,furniture/equipment,0,1,average,0.0341,72.29,good
+37,male,3,own,little,little,3490.05,1,8534.41,69,education,1,1,good,0.2038,123.69,bad
+49,female,2,rent,moderate,moderate,2323.22,2,4847.1,39,business,1,0,good,0.1739,124.28,bad
+29,female,1,free,little,moderate,1558.57,0,2754.17,63,furniture/equipment,1,2,average,0.1473,43.72,bad
+43,female,3,own,little,none,3900.22,14,4087.24,26,car,0,1,good,0.0873,157.2,bad
+48,male,3,own,quite rich,moderate,3104.73,1,3246.97,23,car,1,0,good,0.0872,141.17,good
+54,female,2,own,little,none,2487.45,34,1320.45,23,education,0,2,good,0.0442,57.41,good
+48,female,2,own,rich,little,2902.06,3,2062.98,40,furniture/equipment,1,1,poor,0.0592,51.57,good
+38,female,1,own,little,little,1562.31,1,2203.47,57,education,0,2,good,0.1175,38.66,bad
+73,male,3,rent,none,little,3713.5,10,6076.51,38,car,0,0,good,0.1364,159.91,good
+47,female,2,rent,little,little,3637.49,22,1542.59,24,radio/TV,2,2,poor,0.0353,64.27,good

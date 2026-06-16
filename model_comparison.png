@@ -1,0 +1,105 @@
+{
+  "numeric_features": [
+    "Age",
+    "Job",
+    "Monthly_Income",
+    "Employment_Years",
+    "Credit_amount",
+    "Duration",
+    "Existing_Loans",
+    "Dependents",
+    "Debt_to_Income",
+    "Credit_per_Month"
+  ],
+  "categorical_features": {
+    "Sex": [
+      "female",
+      "male"
+    ],
+    "Housing": [
+      "free",
+      "own",
+      "rent"
+    ],
+    "Saving_accounts": [
+      "little",
+      "moderate",
+      "none",
+      "quite rich",
+      "rich"
+    ],
+    "Checking_account": [
+      "little",
+      "moderate",
+      "none",
+      "rich"
+    ],
+    "Purpose": [
+      "business",
+      "car",
+      "domestic appliances",
+      "education",
+      "furniture/equipment",
+      "radio/TV",
+      "repairs",
+      "vacation"
+    ],
+    "Payment_History": [
+      "average",
+      "good",
+      "poor"
+    ]
+  },
+  "numeric_ranges": {
+    "Age": {
+      "min": 18.0,
+      "max": 75.0,
+      "mean": 46.676
+    },
+    "Job": {
+      "min": 0.0,
+      "max": 3.0,
+      "mean": 1.947
+    },
+    "Monthly_Income": {
+      "min": 645.97,
+      "max": 5038.89,
+      "mean": 2871.2662800000003
+    },
+    "Employment_Years": {
+      "min": 0.0,
+      "max": 40.0,
+      "mean": 12.905
+    },
+    "Credit_amount": {
+      "min": 250.0,
+      "max": 13367.95,
+      "mean": 3301.64434
+    },
+    "Duration": {
+      "min": 4.0,
+      "max": 72.0,
+      "mean": 38.619
+    },
+    "Existing_Loans": {
+      "min": 0.0,
+      "max": 4.0,
+      "mean": 0.926
+    },
+    "Dependents": {
+      "min": 0.0,
+      "max": 4.0,
+      "mean": 0.926
+    },
+    "Debt_to_Income": {
+      "min": 0.0046,
+      "max": 0.3269,
+      "mean": 0.09661919999999999
+    },
+    "Credit_per_Month": {
+      "min": 6.58,
+      "max": 296.56,
+      "mean": 87.95677
+    }
+  }
+}

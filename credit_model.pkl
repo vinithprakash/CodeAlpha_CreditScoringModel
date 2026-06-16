@@ -1,0 +1,153 @@
+"""
+CodeAlpha Internship - Task 1: Credit Scoring Model
+generate_dataset.py — Creates a realistic, synthetic credit-risk dataset
+
+Why synthetic?
+--------------
+This script generates a 1000-row dataset that mirrors the structure of the
+classic German Credit dataset (UCI) but is created locally — no internet
+download required. The features and target are correlated through a
+realistic scoring formula, so models trained on it learn genuine,
+explainable patterns (income, debt burden, savings, payment history, etc.)
+"""
+
+import numpy as np
+import pandas as pd
+import os
+
+RNG_SEED = 42
+N_SAMPLES = 1000
+
+np.random.seed(RNG_SEED)
+
+
+def generate_dataset(n=N_SAMPLES):
+    rng = np.random.default_rng(RNG_SEED)
+
+    # ── Demographics ────────────────────────────────────────────────────────
+    age = rng.integers(18, 76, n)
+    sex = rng.choice(["male", "female"], n, p=[0.6, 0.4])
+    job = rng.choice([0, 1, 2, 3], n, p=[0.05, 0.18, 0.55, 0.22])  # skill level
+    dependents = rng.choice([0, 1, 2, 3, 4], n, p=[0.45, 0.30, 0.15, 0.07, 0.03])
+
+    # ── Housing & Savings ──────────────────────────────────────────────────
+    housing = rng.choice(["own", "rent", "free"], n, p=[0.58, 0.28, 0.14])
+    saving_accounts = rng.choice(
+        ["none", "little", "moderate", "quite rich", "rich"],
+        n, p=[0.18, 0.40, 0.22, 0.13, 0.07]
+    )
+    checking_account = rng.choice(
+        ["none", "little", "moderate", "rich"],
+        n, p=[0.22, 0.40, 0.27, 0.11]
+    )
+
+    # ── Employment & Income ────────────────────────────────────────────────
+    max_employment = np.clip(age - 18, 0, 40)
+    employment_years = np.array([rng.integers(0, m + 1) for m in max_employment])
+
+    # Income depends on job-skill level + experience + noise
+    base_income = 1200 + job * 700 + employment_years * 25
+    monthly_income = np.clip(
+        base_income + rng.normal(0, 350, n), 600, 12000
+    ).round(2)
+
+    # ── Loan Details ────────────────────────────────────────────────────────
+    duration = rng.integers(4, 73, n)            # months
+    existing_loans = rng.choice([0, 1, 2, 3, 4], n, p=[0.45, 0.30, 0.15, 0.07, 0.03])
+
+    purpose = rng.choice(
+        ["car", "radio/TV", "furniture/equipment", "business",
+         "education", "domestic appliances", "repairs", "vacation"],
+        n, p=[0.28, 0.20, 0.18, 0.10, 0.10, 0.06, 0.04, 0.04]
+    )
+
+    # Credit amount scales with income, duration, and purpose
+    purpose_multiplier = pd.Series(purpose).map({
+        "car": 1.4, "radio/TV": 0.5, "furniture/equipment": 0.8,
+        "business": 1.8, "education": 1.2, "domestic appliances": 0.4,
+        "repairs": 0.6, "vacation": 0.5,
+    }).values
+    credit_amount = np.clip(
+        (monthly_income * 0.35 * (duration / 12) * purpose_multiplier)
+        + rng.normal(0, 400, n),
+        250, 25000
+    ).round(2)
+
+    # ── Payment History (past behaviour) ──────────────────────────────────
+    payment_history = rng.choice(["good", "average", "poor"], n, p=[0.55, 0.30, 0.15])
+
+    # ── Derived ratios ───────────────────────────────────────────────────────
+    debt_to_income = (credit_amount / (monthly_income * 12)).round(4)
+    credit_per_month = (credit_amount / duration).round(2)
+
+    # ── Hidden "true" risk score → probability of GOOD credit ─────────────
+    savings_score_map = {"none": 0, "little": 1, "moderate": 2, "quite rich": 3, "rich": 4}
+    checking_score_map = {"none": 0, "little": 1, "moderate": 2, "rich": 3}
+    payment_score_map = {"poor": -2, "average": 0, "good": 2}
+
+    savings_score = pd.Series(saving_accounts).map(savings_score_map).values
+    checking_score = pd.Series(checking_account).map(checking_score_map).values
+    payment_score = pd.Series(payment_history).map(payment_score_map).values
+    housing_score = (pd.Series(housing) == "own").astype(int).values
+
+    income_norm = (monthly_income - monthly_income.mean()) / monthly_income.std()
+    dti_norm = (debt_to_income - debt_to_income.mean()) / debt_to_income.std()
+    duration_norm = (duration - duration.mean()) / duration.std()
+    employment_norm = (employment_years - employment_years.mean()) / employment_years.std()
+    age_factor = np.where(age < 25, -0.4, 0.0)  # younger applicants slightly riskier
+
+    risk_score = (
+        0.9 * income_norm
+        + 0.5 * savings_score
+        + 0.4 * checking_score
+        + 0.6 * payment_score
+        + 0.5 * housing_score
+        + 0.4 * employment_norm
+        - 1.1 * dti_norm
+        - 0.5 * duration_norm
+        - 0.3 * existing_loans
+        + age_factor
+        + rng.normal(0, 0.8, n)  # noise so it's not a trivial linear separator
+    )
+
+    probability_good = 1 / (1 + np.exp(-risk_score))
+    risk = np.where(rng.random(n) < probability_good, "good", "bad")
+
+    df = pd.DataFrame({
+        "Age": age,
+        "Sex": sex,
+        "Job": job,
+        "Housing": housing,
+        "Saving_accounts": saving_accounts,
+        "Checking_account": checking_account,
+        "Monthly_Income": monthly_income,
+        "Employment_Years": employment_years,
+        "Credit_amount": credit_amount,
+        "Duration": duration,
+        "Purpose": purpose,
+        "Existing_Loans": existing_loans,
+        "Dependents": dependents,
+        "Payment_History": payment_history,
+        "Debt_to_Income": debt_to_income,
+        "Credit_per_Month": credit_per_month,
+        "Risk": risk,
+    })
+
+    return df
+
+
+def main():
+    df = generate_dataset()
+    os.makedirs("dataset", exist_ok=True)
+    out_path = os.path.join("dataset", "credit_data.csv")
+    df.to_csv(out_path, index=False)
+
+    print(f"Generated {len(df)} records → {out_path}")
+    print("\nClass distribution:")
+    print(df["Risk"].value_counts())
+    print("\nSample rows:")
+    print(df.head())
+
+
+if __name__ == "__main__":
+    main()
