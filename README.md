@@ -51,7 +51,7 @@ CodeAlpha_CreditScoringModel/
 │
 ├── dataset/
 │   ├── generate_dataset.py    # Creates the synthetic credit dataset
-│   └── credit_data.csv        # 1,000 applicant records (auto-generated)
+│   └── credit_data.csv        # 1,000 applicant records 
 │
 ├── model/
 │   ├── credit_model.pkl        # Trained pipeline (deployed model)
