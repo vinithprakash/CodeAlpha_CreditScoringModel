@@ -188,7 +188,6 @@ push toward "Bad Credit". This is the same logic used in real-world
 
 **Vinith Prakash B**
 Machine Learning Intern — CodeAlpha
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
 
 ---
 
